@@ -78,7 +78,7 @@ Interfejs aplikacji jest bardzo prosty, skromny i mało zachęcający do użytko
 4. Przycisk "Aktywność" jest błędnie zapisany.
 5. Ikona zmiany  języka powinna zawierać na przykład flage z językiem do wyboru, a nie niezrozumiałe znaczki.
 
-####  Po wejściu na Graczy
+####  W raportach graczy i podczas wprowadzania danych nowego zawodnika:
 1. Podczas ściągania pliku, dane eksportowane są do excela. Niestety wszystkie dane trafiają do jednej kolumny. Powiiny trafiać do poszczególnych kolumn. 
 2. Dane widoczne do druku wyświetlają się w innej formie niż widoczna na ekranie, mniej czytelnej.
 3. Nie ma możliwości segregowania danych alfabetycznie lub od najmniejszego do najwyższego wyniku i odwrotnie. Nie można również ustawić ilości wyświetlanych danych na stronie.
