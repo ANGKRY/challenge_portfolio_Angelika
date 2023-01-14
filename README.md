@@ -11,7 +11,7 @@
 
 ### *Subtask 4*
 
-\1. Aplikacja, na czym polega i do czego służy.
+1. Aplikacja, na czym polega i do czego służy.
 
 Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl, służy do weryfikacji osiągnieć graczy. Daje również możliwość porównania wskaźników i tworzenia raportów, eksportowania ich do excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych piłkaży.
 
