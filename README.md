@@ -18,7 +18,7 @@ i eksportowania danych do excela. Przeznaczona jest dla osób/firmy poszukujący
 
 Po zalogowaniu wyświetla się Strona główna, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bierząco wartościami (ilość graczy, ilość meczy, ilość raportów, ilość akcji).
 
-##### W cześci centralnej Strony głównej wyświetlane są również przyciski:
+#### W cześci centralnej Strony głównej wyświetlane są również przyciski:
 1. Scouts Panel (panel zarządzania graczami, meczami i do tworzenia raportów);
 2. Linki pomocnicze (dodaj gracza);
 3. Aktywność.
@@ -41,7 +41,7 @@ Z lewej strony znajduje się pasek z następującymi przyciskami:
 * Wyloguj / Sign out
 
 
-##### Po przejściu do "Gracze"/"Players" wyświetla się tabela, posiada ona następujące wskaźniki, które można porównać:
+#### Po przejściu do "Gracze"/"Players" wyświetla się tabela, posiada ona następujące wskaźniki, które można porównać:
   * imię / name;
   * nazwisko / surname;
   * wiek age;
@@ -52,7 +52,7 @@ Z lewej strony znajduje się pasek z następującymi przyciskami:
   * raporty.
 
 
-##### W prawym górnym rogu znajdują się ikony pozwaljące na:
+#### W prawym górnym rogu znajdują się ikony pozwaljące na:
   * ściągnięcie danych;
   * wydrukowanie danych;
   * wybranie wskaźników do porównania;
