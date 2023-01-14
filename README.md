@@ -1,17 +1,17 @@
 # Task 1
 
 
-### *Subtask 1*
+## *Subtask 1*
 
 8 pkt
 
-### *Subtask 3*
+## *Subtask 3*
 
 Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawodowym. Jestem otwarta na nowości i gotowa do nauki. Moim celem jest znalezienie właściwej drogi zawodowej. Oczekuje, że to wyzwanie da mi jeszcze większy zapał do dalszej nauki i pewność, że właśnie to jest to co chciałabym robić w przyszłości.
 
-### *Subtask 4*
+## *Subtask 4*
 
-#### 1. Opis i funkcjonalność aplikacji
+### 1. Opis i funkcjonalność aplikacji
 
 Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl, służy do weryfikacji osiągnieć graczy. Daje również możliwość porównania wskaźników, tworzenia raportów 
 i eksportowania danych do excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych piłkaży.
@@ -61,7 +61,7 @@ Z lewej strony znajduje się pasek z następującymi przyciskami:
 Aplikacja jest dwujęzyczna.
 Po wejściu na konto gracza z lewej strony wyświetlają się raporty oraz męcze, które można przeglądać, dodawać lub edytować.
 
-#### 2. Funkcjonalność i interfejs
+### 2. Funkcjonalność i interfejs
 
 Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
 
@@ -69,7 +69,7 @@ Aplikacja wizualnie lepiej wygląda wizualnie wyświetona na ekranie telefonu ni
 
 Interfejs aplikacji jest bardzo prosty, skromny i mało zachęcający do użytkowania. Proponowałam bym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. 
 
-#### 3. Zauważone błędy lub rzeczy do zmiany
+### 3. Zauważone błędy lub rzeczy do zmiany
 
 #### Na stronie głównej:
 1. Przyciski na stronie głównej (ilość graczy, ilość meczy, ilość raportów, ilość akcji) nie są aktywne, po ich naciśnieciu nie przechodzi się do wyświetlanych wartości i ich szczegółów. Warto dodać taką możliwość.
