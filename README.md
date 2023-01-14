@@ -11,19 +11,35 @@
 
 ### *Subtask 4*
 
-Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl, służy do weryfikacji osiągnieć piłkaży. Przeznaczona jest dla zawodników, którzy chcą zapisać swoje osiągnięcia, jak również, a raczej przede wszystkim dla osób poszukujących zawodników do swoich i nie tylko swoich klubów.
+\1. Aplikacja, na czym polega i do czego służy.
 
-Oprócz danych osobowych posiada następujące wskaźniki, które można porównać:
+Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl, służy do weryfikacji osiągnieć graczy. Daje również możliwość porównania wskaźników i tworzenia raportów, eksportowania ich do excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych piłkaży.
+
+Oprócz danych osobowych posiada następujące wskaźniki:
 * wiek;
 * pozycja rozgrywająca;
 * klub;
-* recenzja / ocena;
+* recenzja;
 * ilość rozegranych meczy;
 * raporty.
 
+Po naciśnieciu przycisk "Gracze"/ "Players", wyświetlona zostaje tabela, w której można porównać, albo wszystkie wyżej wymienione parametry albo wybrane z listy, klikając w prawym górnym rogu w ikonke trzech kolumn.
+
+Aplikacja jest dwujęzyczna. Daje możliwość zarejstrowania nowego zawodnika. 
+Pokazuje również ostatnie aktywności na stronie, takie jak:
+* ostatnio stworzony gracz;
+* ostatnio zaaktualizowany gracz;
+* ostatnio stworzony mecz;
+* ostatnio zaaktualizowany mecz;
+* ostatnio zaaktualizowany raport;
+
+
+
+
+
 Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
 
-Po wejściu na główną stronę, pokazują się przyciski w rzędzie (ilość graczy, ilość meczy, ilość raportów, ilość akcji), które nie są aktywne, po ich naciśnieciu nie przechodzi się do wyświetlanych wartości i ich szczegółów.
+Po wejściu na główną stronę, na samej górze strony pokazują się przyciski w rzędzie (ilość graczy, ilość meczy, ilość raportów, ilość akcji), które nie są aktywne, po ich naciśnieciu nie przechodzi się do wyświetlanych wartości i ich szczegółów.
 
 Interfejs aplikacji jest bardzo skromny i mało zachęcający do użytkowania.
 Proponowałabym zmianę układu strony, dodanie koloru tła, zmianę trzcionki, dodanie obrazu, animacji, filmiku z udziałem piłakaży znajdujących w aplikacji, aby ją ożywić.
