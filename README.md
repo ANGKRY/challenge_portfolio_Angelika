@@ -30,17 +30,16 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 1.3.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
 *	**Strona główna** 
 *	**Gracze**, po kliknięciu pojawia się tabela z następującymi danymi:
-   *	imię / name;
-   *	nazwisko / surname;
-   *	wiek age;
-   *	pozycja rozgrywająca;
-   *	klub;
-   *	recenzja;
-   *	ilość rozegranych meczy;
-   *	raporty.
+  *	imię / name;
+  *	nazwisko / surname;
+  *	wiek age;
+  *	pozycja rozgrywająca;
+  *	klub;
+  *	recenzja;
+  *	ilość rozegranych meczy;
+  *	raporty.
   
-*	**English**, przycisk zmienia język na angielski;
-*	**Wyloguj**, powoduje wylogowanie z aplikacji.
+
 
 W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe informacje wyświetlają się po kliknięciu w ikonę w lewym górnym rogu. 
 
