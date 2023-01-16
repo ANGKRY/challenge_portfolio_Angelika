@@ -98,6 +98,16 @@ Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkow
 
 Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji językowej nie wszystkie słowa zostały przetłumaczone na język polski.
 
+### 4.	Bugi oraz propozycje zmian 
+
+4.1.	Na Stronie głównej:
+
+* Przyciski na stronie głównej (**ilość graczy, ilość meczy, ilość raportów, ilość akcji**) nie są aktywne, po ich naciśnięciu nie przechodzi się do wyświetlanych wartości i ich szczegółów. Warto dodać taką możliwość.
+* Przycisk *Scouts Panel* opisany został jako Panel zarządzania graczami, meczami i do tworzenia raportów, natomiast ostatecznie pełni on funkcje kontaktu z programistami. Dodatkowo po zmianie na języka polski, nazwa nie zostaje przetłumaczona.
+* Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
+* Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru, a nie niezrozumiałe znaczki.
+
+
 
 
 
