@@ -7,7 +7,7 @@
 
 ## *Subtask 3*
 
-Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawodowym. Jestem otwarta na nowości i gotowa do nauki. Moim celem jest znalezienie właściwej drogi zawodowej. Oczekuje, że to wyzwanie da mi jeszcze większy zapał do dalszej nauki i pewność, że właśnie to jest to co chciałabym robić w przyszłości.
+Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawodowym. Jestem otwarta na nowości i gotowa do nauki. Moim celem jest znalezienie właściwej drogi zawodowej. Oczekuje, że to wyzwanie da mi jeszcze większy zapał do dalszej nauki i pewność, że właśnie to jest to co chciałabym robić w przyszłości. 	:smiley:
 
 ## *Subtask 4*
 
@@ -39,8 +39,8 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
      *	recenzja;
      *	ilość rozegranych meczy;
      *	raporty.
-* English, przycisk zmienia język na angielski;
-*	Wyloguj, powoduje wylogowanie z aplikacji.
+* **English**, przycisk zmienia język na angielski;
+*	**Wyloguj**, powoduje wylogowanie z aplikacji.
 
 W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe informacje wyświetlają się po kliknięciu w ikonę w lewym górnym rogu. 
 
@@ -107,14 +107,35 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 * Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
 * Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru, a nie niezrozumiałe znaczki.
 
-4.2.	Po wyświetleniu **Graczy**;
+4.2.	Na stronie z **Graczami**;
 
 * Podczas ściągania pliku, dane eksportowane są do Excela. Niestety wszystkie dane trafiają do jednej kolumny. Powinny trafiać do poszczególnych kolumn. 
-* Dane widoczne do druku wyświetlają się w innej formie niż widoczna na ekranie monitora komputera, mniej czytelnej.
+* Dane widoczne do druku wyświetlają się w innej formie, niż widoczna na ekranie monitora komputera, mniej czytelnej.
 * Nie ma możliwości segregowania danych alfabetycznie lub od najmniejszego do najwyższego wartości i odwrotnie. Nie można również ustawić ilości wyświetlanych danych na stronie.
 * Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
 * Podczas próby wydruku tabeli z danymi, na podglądzie do wydruku widoczni są jedynie zawodnicy z pierwszej strony raportu (pierwszych 10).
 * W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i filtrowanie wyświetlane są w języku angielskim. Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate)
+
+4.3.	Błędy zweryfikowane podczas wpisywania nowego zawodnika:
+
+* Podczas wpisywania imienia i nazwiska można używać symboli i cyfr, oraz nie ma ograniczenia co do ich długości.
+* Wpisując dane nowego gracza w rubryce telefon można wpisać nie tylko cyfry, a symbole i litery. Dla ułatwienia powinna być możliwość wyboru numeru kierunkowego danego kraju oraz wprowadzone ograniczenie co do ilości wpisywanych cyfr.
+* W rubryce wzrost i waga można wpisać ujemne wartości.
+* W polskiej wersji językowej, w lewym dolnym roku są przyciski w języku angielskim (submit i clear).
+* Wprowadzając datę urodzenia gracza można wpisać czas przyszły. Zawodnik zapisany w aplikacji może mieć również nieograniczoną ilość lat. Proponuje wykluczyć możliwość zapisu daty urodzenia przyszłej i wprowadzić maksymalny i minimalny wiek.
+
+4.4.	**Raporty** i **Mecze**:
+
+* Podczas edycji meczu w polskiej wersji językowej wyświetlają się angielskojęzyczne wskaźniki:
+     * Web match
+     * General 
+
+5.	Według Raportu Lighthouse wydajność wynosi 56 %, w celu jej poprawy należy:
+
+* wyeliminować zasoby blokujące renderowanie;
+* zminimalizuj pracę głównego wątku;
+* skróć czas poświęcany na analizowanie, kompilowanie i wykonywanie Java Script.
+
 
 
 
