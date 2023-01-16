@@ -11,6 +11,7 @@ Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawod
 
 ## *Subtask 4*
 
+
 ### 1. Opis aplikacji
 
 Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów i eksportowania danych do Excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
@@ -65,7 +66,7 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
      * Dodania raportu;
      * Dodania meczu.
 
-1.4.2.	Raporty zawierają takie dane jak:
+1.4.2. **Raporty** zawierają takie dane jak:
 * Drużyna zawodnika;
 * Zdobyte gole;
 * Stracone gole;
@@ -76,6 +77,18 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
 * Akcje, dają możliwość:
      * Edycji.
 
+Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania nowego dokumentu.
+
+
+2.	 Funkcjonalność 
+Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
+Przycisk dający możliwość dodawania zawodników (Linki pomocnicze), powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
+Scouts Panel nie spełnia opisanej funkcji zarządzania graczami, meczami tworzenia raportów. Błędnie kieruje do kontaktu z programistami. Zarządzanie graczami, meczami i tworzenie raportów jest możliwe dopiero po wejściu na konto jednego z Graczy.
+Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego gracza, natomiast nie informuje z jakiego powodu, tak się dzieje, które dane należy poprawić.
+3.	Interfejs (wygląd)
+Po zmianie rozdzielczości ekranu na wersje mobilną, interfejs aplikacji zyskuje na wyglądzie.
+Interfejs aplikacji jest bardzo prosty, skromny. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. 
+Dodatkowo w aplikacji jest dużo literówek i błędów w polskiej wersji językowej (nie wszystkie słowa zostały przetłumaczone na język polski).
 
 
 
