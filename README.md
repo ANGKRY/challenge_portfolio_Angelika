@@ -21,23 +21,23 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 * **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów), który powinien dawać możliwość tworzenia raportów oraz administrowanie danych graczy i ich meczów;
 * **Linki pomocnicze** (dodaj gracza), daje możliwość dodania nowego zawodnika;
 * **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
-  * ostatnio stworzony gracz;
-  * ostatnio zaktualizowany gracz;
-  * ostatnio stworzony mecz;
-  * ostatnio zaktualizowany mecz;
-  * ostatnio zaktualizowany raport.
+     * ostatnio stworzony gracz;
+     * ostatnio zaktualizowany gracz;
+     * ostatnio stworzony mecz;
+     * ostatnio zaktualizowany mecz;
+     * ostatnio zaktualizowany raport.
 
 1.3.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
 *	**Strona główna** 
 *	**Gracze**, po kliknięciu pojawia się tabela z następującymi danymi:
-       *	imię;
-       *	nazwisko;
-       *	wiek;
-       *	pozycja rozgrywająca;
-       *	klub;
-       *	recenzja;
-       *	ilość rozegranych meczy;
-       *	raporty.
+     *	imię;
+     *	nazwisko;
+     *	wiek;
+     *	pozycja rozgrywająca;
+     *	klub;
+     *	recenzja;
+     *	ilość rozegranych meczy;
+     *	raporty.
 * English, przycisk zmienia język na angielski;
 *	Wyloguj, powoduje wylogowanie z aplikacji.
 
@@ -64,16 +64,17 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
      * Edycji;
      * Dodania raportu;
      * Dodania meczu.
+
 1.4.2.	Raporty zawierają takie dane jak:
-o	Drużyna zawodnika;
-o	Zdobyte gole;
-o	Stracone gole;
-o	Drużyna przeciwna;
-o	Data;
-o	Ostatnia modyfikacja;
-o	Autor;
-o	Akcje, dają możliwość:
-	Edycji.
+* Drużyna zawodnika;
+* Zdobyte gole;
+* Stracone gole;
+* Drużyna przeciwna;
+* Data;
+* Ostatnia modyfikacja;
+* Autor;
+* Akcje, dają możliwość:
+     * Edycji.
 
 
 
