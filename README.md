@@ -124,13 +124,13 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 * W polskiej wersji językowej, w lewym dolnym roku są przyciski w języku angielskim (submit i clear).
 * Wprowadzając datę urodzenia gracza można wpisać czas przyszły. Zawodnik zapisany w aplikacji może mieć również nieograniczoną ilość lat. Proponuje wykluczyć możliwość zapisu daty urodzenia przyszłej i wprowadzić maksymalny i minimalny wiek.
 
-4.4.	**Raporty** i **Mecze**:
+ ### 4.	Raporty i Mecze:
 
 * Podczas edycji meczu w polskiej wersji językowej wyświetlają się angielskojęzyczne wskaźniki:
      * Web match
      * General 
 
-5.	Według Raportu Lighthouse wydajność wynosi 56 %, w celu jej poprawy należy:
+### 5.	Według Raportu Lighthouse wydajność aplikacji wynosi 56 %, w celu jej poprawy należy:
 
 * wyeliminować zasoby blokujące renderowanie;
 * zminimalizuj pracę głównego wątku;
