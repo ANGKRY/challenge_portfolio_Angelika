@@ -14,7 +14,7 @@ Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawod
 
 ### 1. Opis aplikacji
 
-Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów i eksportowania danych do Excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
+Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów i ściągania danych do Excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
 
 1.1. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**ilość graczy, ilość meczy, ilość raportów, ilość akcji**), które nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych.
 
