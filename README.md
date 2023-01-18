@@ -38,7 +38,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 * Podczas wpisywania imienia i nazwiska można używać symboli i cyfr, oraz nie ma ograniczenia co do ich długości.
 
-
+![2023-01-18_21h48_20](https://user-images.githubusercontent.com/122534768/213291547-da236eb5-7200-4c36-9062-bace55ecdeef.png)
 
 * Wpisując dane nowego gracza w rubryce telefon można wpisać nie tylko cyfry, a symbole i litery. Dla ułatwienia powinna być możliwość wyboru numeru kierunkowego        danego kraju oraz wprowadzone ograniczenie co do ilości wpisywanych cyfr.
 * W rubryce wzrost i waga można wpisać ujemne wartości.
