@@ -24,19 +24,33 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 ![2023-01-18_17h21_03](https://user-images.githubusercontent.com/122534768/213235825-457766a5-19b2-4481-86bb-c5c4b964f9b2.png)
 
 2.3.	W części centralnej **Strony głównej** wyświetlane są również przyciski:
-* **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów) nie spełnia opisanej funkcji zarządzania graczami, meczami tworzenia raportów. Błędnie kieruje do kontaktu z programistami. Zarządzanie graczami, meczami i tworzenie raportów jest możliwe dopiero po wejściu na konto jednego z **Graczy**.
+
+2.3.1. **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów) nie spełnia opisanej funkcji zarządzania graczami, meczami tworzenia raportów. Błędnie kieruje do kontaktu z programistami. Zarządzanie graczami, meczami i tworzenie raportów jest możliwe dopiero po wejściu na konto jednego z **Graczy**.
 
 ![2023-01-18_20h08_41](https://user-images.githubusercontent.com/122534768/213273420-eef8aeb0-514f-462a-a63b-eb7e78ec81dd.png)
 
-* **Linki pomocnicze** (Dodaj Gracza), przycisk dający możliwość dodawania zawodników, powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
+2.3.2. **Linki pomocnicze** (Dodaj Gracza);
+* Przycisk dający możliwość dodawania zawodników, powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
 
 ![2023-01-18_20h20_03](https://user-images.githubusercontent.com/122534768/213274664-373ccb33-4353-4e65-9f9c-0a2f978843ee.png)
 
-Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu, tak się dzieje, które dane należy poprawić, żeby tak się stało.
+* Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu,        tak się dzieje, które dane należy poprawić, żeby tak się stało. 
 
-Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
+* Podczas wpisywania imienia i nazwiska można używać symboli i cyfr, oraz nie ma ograniczenia co do ich długości.
 
-* **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
+
+
+* Wpisując dane nowego gracza w rubryce telefon można wpisać nie tylko cyfry, a symbole i litery. Dla ułatwienia powinna być możliwość wyboru numeru kierunkowego        danego kraju oraz wprowadzone ograniczenie co do ilości wpisywanych cyfr.
+* W rubryce wzrost i waga można wpisać ujemne wartości.
+* W polskiej wersji językowej, w lewym dolnym roku są przyciski w języku angielskim (submit i clear).
+* Wprowadzając datę urodzenia gracza można wpisać czas przyszły. Zawodnik zapisany w aplikacji może mieć również nieograniczoną ilość lat. Proponuje wykluczyć            możliwość zapisu daty urodzenia przyszłej i wprowadzić maksymalny i minimalny wiek.
+ * Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
+
+
+
+  
+
+2.3.3. **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
      * ostatnio stworzony gracz;
      * ostatnio zaktualizowany gracz;
      * ostatnio stworzony mecz;
@@ -89,6 +103,8 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
 * porównać wybierając dowolne wskaźniki;
 * wyszukać dane przy zastosowaniu określonych filtrów.
 
+W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i filtrowanie wyświetlane są w języku angielskim. Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate)
+
 2.5.	Po wejściu na dowolne założone konto **Gracza** wyświetlają się:
 
 2.5.1.	**Mecze**, które zawierają następujące dane:
@@ -119,7 +135,7 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
 Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania nowego dokumentu.
 
 
-### 2. Funkcjonalność
+
 
 
 
@@ -152,16 +168,11 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 * 
 * 
 * 
-* W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i filtrowanie wyświetlane są w języku angielskim. Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate)
+* 
 
 4.3.	Błędy zweryfikowane podczas wpisywania nowego zawodnika:
 
-* Podczas wpisywania imienia i nazwiska można używać symboli i cyfr, oraz nie ma ograniczenia co do ich długości.
-* Wpisując dane nowego gracza w rubryce telefon można wpisać nie tylko cyfry, a symbole i litery. Dla ułatwienia powinna być możliwość wyboru numeru kierunkowego danego kraju oraz wprowadzone ograniczenie co do ilości wpisywanych cyfr.
-* W rubryce wzrost i waga można wpisać ujemne wartości.
-* W polskiej wersji językowej, w lewym dolnym roku są przyciski w języku angielskim (submit i clear).
-* Wprowadzając datę urodzenia gracza można wpisać czas przyszły. Zawodnik zapisany w aplikacji może mieć również nieograniczoną ilość lat. Proponuje wykluczyć możliwość zapisu daty urodzenia przyszłej i wprowadzić maksymalny i minimalny wiek.
-
+* 
  4.4.	**Raporty** i **Mecze**:
 
 * Podczas edycji meczu w polskiej wersji językowej wyświetlają się angielskojęzyczne wskaźniki:
