@@ -32,6 +32,8 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 ![2023-01-18_20h20_03](https://user-images.githubusercontent.com/122534768/213274664-373ccb33-4353-4e65-9f9c-0a2f978843ee.png)
 
+Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu, tak się dzieje, które dane należy poprawić, żeby tak się stało.
+
 * **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
      * ostatnio stworzony gracz;
      * ostatnio zaktualizowany gracz;
@@ -55,13 +57,25 @@ Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa:
      *	recenzja;
      *	ilość rozegranych meczy;
      *	raporty.
-* **English**, przycisk zmienia język na angielski;
+     
+     
+     
+* **English** / **Polski**, przycisk zmienia język;
+
+![2023-01-18_20h39_35](https://user-images.githubusercontent.com/122534768/213278898-ad847c88-7c66-4212-8cb5-a328edc1cf6c.png)
+![2023-01-18_20h39_57](https://user-images.githubusercontent.com/122534768/213278935-d908492f-93b0-410c-8d02-d45a6cd748ec.png)
+
+Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru, a nie niezrozumiałe znaczki.
+
 *	**Wyloguj**, powoduje wylogowanie z aplikacji.
 
 W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe informacje wyświetlają się po kliknięciu w ikonę w lewym górnym rogu. 
 
 2.4.1.	Tabele z danymi **Graczy** można przy użyciu ikon w prawym górnym rogu:
 * pobrać do pliku Excel;
+
+
+
 * wydrukować;
 * porównać wybierając dowolne wskaźniki;
 * wyszukać dane przy zastosowaniu określonych filtrów.
@@ -103,7 +117,7 @@ Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania 
 
 
 
-Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu, tak się dzieje, które dane należy poprawić, żeby tak się stało.
+
 
 ### 3.	Interfejs (wygląd)
 
@@ -120,11 +134,11 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 
 
 
-* Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru, a nie niezrozumiałe znaczki.
+* 
 
 4.2.	Na stronie z **Graczami**;
 
-* Podczas ściągania pliku, dane eksportowane są do Excela. Niestety wszystkie dane trafiają do jednej kolumny. Powinny trafiać do poszczególnych kolumn. 
+* 
 * Dane widoczne do druku wyświetlają się w innej formie, niż widoczna na ekranie monitora komputera, mniej czytelnej.
 * Nie ma możliwości segregowania danych alfabetycznie lub od najmniejszego do najwyższego wartości i odwrotnie. Nie można również ustawić ilości wyświetlanych danych na stronie.
 * Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
