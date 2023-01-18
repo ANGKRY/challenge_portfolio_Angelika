@@ -16,9 +16,15 @@ Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawod
 
 Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów i ściągania danych do Excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
 
-1.1. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**ilość graczy, ilość meczy, ilość raportów, ilość akcji**), które nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych.
+### 2. Funkcjonalność
 
-1.2.	W części centralnej **Strony głównej** wyświetlane są również przyciski:
+2.1. Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
+
+2.2. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**ilość graczy, ilość meczy, ilość raportów, ilość akcji**), które nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych.
+
+
+
+2.3.	W części centralnej **Strony głównej** wyświetlane są również przyciski:
 * **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów), który powinien dawać możliwość tworzenia raportów oraz administrowanie danych graczy i ich meczów;
 * **Linki pomocnicze** (dodaj gracza), daje możliwość dodania nowego zawodnika;
 * **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
@@ -28,7 +34,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
      * ostatnio zaktualizowany mecz;
      * ostatnio zaktualizowany raport.
 
-1.3.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
+2.4.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
 *	**Strona główna** 
 *	**Gracze**, po kliknięciu pojawia się tabela z następującymi danymi:
      *	imię;
@@ -44,15 +50,15 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe informacje wyświetlają się po kliknięciu w ikonę w lewym górnym rogu. 
 
-1.3.1.	Tabele z danymi **Graczy** można przy użyciu ikon w prawym górnym rogu:
+2.4.1.	Tabele z danymi **Graczy** można przy użyciu ikon w prawym górnym rogu:
 * pobrać do pliku Excel;
 * wydrukować;
 * porównać wybierając dowolne wskaźniki;
 * wyszukać dane przy zastosowaniu określonych filtrów.
 
-1.4.	Po wejściu na dowolne założone konto **Gracza** wyświetlają się:
+2.5.	Po wejściu na dowolne założone konto **Gracza** wyświetlają się:
 
-1.4.1.	**Mecze**, które zawierają następujące dane:
+2.5.1.	**Mecze**, które zawierają następujące dane:
 * Drużyna zawodnika;
 * Zdobyte gole;
 * Stracone gole;
@@ -66,7 +72,7 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
      * Dodania raportu;
      * Dodania meczu.
 
-1.4.2. **Raporty** zawierają takie dane jak:
+2.5.2. **Raporty** zawierają takie dane jak:
 * Drużyna zawodnika;
 * Zdobyte gole;
 * Stracone gole;
@@ -82,7 +88,7 @@ Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania 
 
 ### 2. Funkcjonalność
 
-Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
+
 
 Przycisk dający możliwość dodawania zawodników (**Linki pomocnicze**), powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
 
