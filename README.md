@@ -70,8 +70,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
      
 * Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
 
-![2023-01-18_20h32_01](https://user-images.githubusercontent.com/122534768/213277550-5ecb19c5-5462-4ac9-ac0c-2e4cda0d1790.png)
-![2023-01-18_20h33_04](https://user-images.githubusercontent.com/122534768/213277925-187c332e-0412-45c0-a298-ee4c91efcc9e.png)
+![2023-01-18_22h31_04](https://user-images.githubusercontent.com/122534768/213299609-8a69b429-ed84-470e-aaf8-3d934cedd801.png)
 
 2.4.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
 *	**Strona główna** 
@@ -131,6 +130,9 @@ W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i fil
      * Edycji;
      * Dodania raportu;
      * Dodania meczu.
+Opcja ta jest mało intuicyjna i mało czytelna, brak legendy i informacji w jaki sposób można dodać mecz.
+
+
 
 2.5.2. **Raporty** zawierają takie dane jak:
 * Drużyna zawodnika;
@@ -143,17 +145,7 @@ W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i fil
 * Akcje, dają możliwość:
      * Edycji.
 
-Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania nowego dokumentu.
-
-
-
-
-
-
-
-
-
-
+2.5.3. Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania nowego dokumentu.
 
 ### 3.	Interfejs (wygląd)
 
@@ -163,27 +155,8 @@ Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkow
 
 Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji językowej nie wszystkie słowa zostały przetłumaczone na język polski.
 
-### 4.	Bugi oraz propozycje zmian 
-
-4.1.	Na **Stronie głównej**:
 
 
-
-
-* 
-
-4.2.	Na stronie z **Graczami**;
-
-* 
-* 
-* 
-* 
-* 
-* 
-
-4.3.	Błędy zweryfikowane podczas wpisywania nowego zawodnika:
-
-* 
  4.4.	**Raporty** i **Mecze**:
 
 * Podczas edycji meczu w polskiej wersji językowej wyświetlają się angielskojęzyczne wskaźniki:
