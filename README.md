@@ -11,7 +11,6 @@ Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawod
 
 ## *Subtask 4*
 
-
 ### 1. Opis aplikacji
 
 Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów i ściągania danych do Excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
@@ -25,7 +24,10 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 ![2023-01-18_17h21_03](https://user-images.githubusercontent.com/122534768/213235825-457766a5-19b2-4481-86bb-c5c4b964f9b2.png)
 
 2.3.	W części centralnej **Strony głównej** wyświetlane są również przyciski:
-* **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów), który powinien dawać możliwość tworzenia raportów oraz administrowanie danych graczy i ich meczów;
+* **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów) nie spełnia opisanej funkcji zarządzania graczami, meczami tworzenia raportów. Błędnie kieruje do kontaktu z programistami. Zarządzanie graczami, meczami i tworzenie raportów jest możliwe dopiero po wejściu na konto jednego z **Graczy**.
+
+![image](https://user-images.githubusercontent.com/122534768/213272222-8f16a169-34bf-4a34-b3c2-18a5bdca5da4.png)
+
 * **Linki pomocnicze** (dodaj gracza), daje możliwość dodania nowego zawodnika;
 * **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
      * ostatnio stworzony gracz;
@@ -92,7 +94,7 @@ Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania 
 
 Przycisk dający możliwość dodawania zawodników (**Linki pomocnicze**), powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
 
-**Scouts Panel** nie spełnia opisanej funkcji zarządzania graczami, meczami tworzenia raportów. Błędnie kieruje do kontaktu z programistami. Zarządzanie graczami, meczami i tworzenie raportów jest możliwe dopiero po wejściu na konto jednego z **Graczy**.
+
 
 Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu, tak się dzieje, które dane należy poprawić, żeby tak się stało.
 
