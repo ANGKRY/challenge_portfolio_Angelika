@@ -154,13 +154,13 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 * Po zmianie rozdzielczości ekranu na wersje mobilną, interfejs aplikacji zyskuje na wyglądzie. Wersja na komputer zdecydowanie mi się nie podoba.
 
+![image](https://user-images.githubusercontent.com/122534768/213310605-1dde6160-9f81-4f7d-a5bf-6ecfcf659883.png)
 
-
-Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkowania. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. Zmiane tłą. Dodanie dźwięku.
+* Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkowania. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. Zmiane tłą. Dodanie dźwięku.
 
 Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji językowej nie wszystkie słowa zostały przetłumaczone na język polski.
 
-### 4.	Według Raportu Lighthouse wydajność aplikacji wynosi 56 %, w celu jej poprawy należy:
+### 4.	Według Raportu Lighthouse wydajność aplikacji wynosi 58 %, w celu jej poprawy należy:
 
 * wyeliminować zasoby blokujące renderowanie;
 * zminimalizuj pracę głównego wątku;
