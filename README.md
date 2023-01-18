@@ -57,15 +57,13 @@ Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa:
      *	recenzja;
      *	ilość rozegranych meczy;
      *	raporty.
-     
-     
-     
+          
 * **English** / **Polski**, przycisk zmienia język;
+
+Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru, a nie niezrozumiałe znaczki.
 
 ![2023-01-18_20h39_35](https://user-images.githubusercontent.com/122534768/213278898-ad847c88-7c66-4212-8cb5-a328edc1cf6c.png)
 ![2023-01-18_20h39_57](https://user-images.githubusercontent.com/122534768/213278935-d908492f-93b0-410c-8d02-d45a6cd748ec.png)
-
-Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru, a nie niezrozumiałe znaczki.
 
 *	**Wyloguj**, powoduje wylogowanie z aplikacji.
 
@@ -74,9 +72,16 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
 2.4.1.	Tabele z danymi **Graczy** można przy użyciu ikon w prawym górnym rogu:
 * pobrać do pliku Excel;
 
+Dane po pobraniu do Excela trafiają do do pierwszej kolumny, co nie jest funkcjonalne i czytelne.
 
+![2023-01-18_20h54_38](https://user-images.githubusercontent.com/122534768/213282540-c4fc4ac0-ea51-4613-948f-2f0bde39b566.png)
 
 * wydrukować;
+
+Dane widoczne do druku wyświetlają się w innej formie, niż widoczna na ekranie monitora komputera, mniej czytelnej.
+
+
+
 * porównać wybierając dowolne wskaźniki;
 * wyszukać dane przy zastosowaniu określonych filtrów.
 
@@ -139,7 +144,7 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 4.2.	Na stronie z **Graczami**;
 
 * 
-* Dane widoczne do druku wyświetlają się w innej formie, niż widoczna na ekranie monitora komputera, mniej czytelnej.
+* 
 * Nie ma możliwości segregowania danych alfabetycznie lub od najmniejszego do najwyższego wartości i odwrotnie. Nie można również ustawić ilości wyświetlanych danych na stronie.
 * Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
 * Podczas próby wydruku tabeli z danymi, na podglądzie do wydruku widoczni są jedynie zawodnicy z pierwszej strony raportu (pierwszych 10).
