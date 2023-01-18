@@ -34,6 +34,8 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu, tak się dzieje, które dane należy poprawić, żeby tak się stało.
 
+Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
+
 * **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
      * ostatnio stworzony gracz;
      * ostatnio zaktualizowany gracz;
@@ -57,6 +59,8 @@ Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa:
      *	recenzja;
      *	ilość rozegranych meczy;
      *	raporty.
+     
+Nie ma możliwości segregowania danych alfabetycznie lub od najmniejszego do najwyższego wartości i odwrotnie. Nie można również ustawić ilości wyświetlanych danych na stronie.
           
 * **English** / **Polski**, przycisk zmienia język;
 
@@ -71,16 +75,16 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
 
 2.4.1.	Tabele z danymi **Graczy** można przy użyciu ikon w prawym górnym rogu:
 * pobrać do pliku Excel;
-
-Dane po pobraniu do Excela trafiają do do pierwszej kolumny, co nie jest funkcjonalne i czytelne.
+     * Dane po pobraniu do Excela trafiają do do pierwszej kolumny, co nie jest funkcjonalne i czytelne.
 
 ![2023-01-18_20h54_38](https://user-images.githubusercontent.com/122534768/213282540-c4fc4ac0-ea51-4613-948f-2f0bde39b566.png)
 
 * wydrukować;
+     * Podczas próby wydruku tabeli z danymi, na podglądzie do wydruku widoczni są jedynie zawodnicy z pierwszej strony raportu (pierwszych 10).
+     * Dane widoczne do druku wyświetlają się w innej formie, niż widoczna na ekranie monitora komputera, mniej czytelnej.
 
-Dane widoczne do druku wyświetlają się w innej formie, niż widoczna na ekranie monitora komputera, mniej czytelnej.
-
-
+![2023-01-18_21h08_35](https://user-images.githubusercontent.com/122534768/213285230-a94b3343-23a9-4b6d-9200-316450b57e39.png)
+![2023-01-18_21h09_57](https://user-images.githubusercontent.com/122534768/213285261-05d363b4-d156-4dda-9d0c-a26c3b5a3663.png)
 
 * porównać wybierając dowolne wskaźniki;
 * wyszukać dane przy zastosowaniu określonych filtrów.
@@ -145,9 +149,9 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 
 * 
 * 
-* Nie ma możliwości segregowania danych alfabetycznie lub od najmniejszego do najwyższego wartości i odwrotnie. Nie można również ustawić ilości wyświetlanych danych na stronie.
-* Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
-* Podczas próby wydruku tabeli z danymi, na podglądzie do wydruku widoczni są jedynie zawodnicy z pierwszej strony raportu (pierwszych 10).
+* 
+* 
+* 
 * W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i filtrowanie wyświetlane są w języku angielskim. Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate)
 
 4.3.	Błędy zweryfikowane podczas wpisywania nowego zawodnika:
