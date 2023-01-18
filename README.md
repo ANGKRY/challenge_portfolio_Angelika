@@ -55,7 +55,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 * Wprowadzając datę urodzenia gracza można wpisać czas przyszły. Zawodnik zapisany w aplikacji może mieć również nieograniczoną liczbę lat. Proponuje wykluczyć            możliwość zapisu daty urodzenia przyszłej i wprowadzić maksymalny i minimalny wiek.
 
-
+![2023-01-18_22h07_12](https://user-images.githubusercontent.com/122534768/213297787-b75279b8-5235-4bc2-8bbe-d98ab93129d7.png)
 
  * Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
 
@@ -70,7 +70,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
      * ostatnio zaktualizowany mecz;
      * ostatnio zaktualizowany raport.
      
-Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
+* Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
 
 ![2023-01-18_20h32_01](https://user-images.githubusercontent.com/122534768/213277550-5ecb19c5-5462-4ac9-ac0c-2e4cda0d1790.png)
 ![2023-01-18_20h33_04](https://user-images.githubusercontent.com/122534768/213277925-187c332e-0412-45c0-a298-ee4c91efcc9e.png)
