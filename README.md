@@ -20,9 +20,9 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 2.1. Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
 
-2.2. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**ilość graczy, ilość meczy, ilość raportów, ilość akcji**), które nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych.
+2.2. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**Ilość graczy, Ilość meczy, Ilość raportów, Ilość akcji**), które nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych.
 
-
+![2023-01-18_17h21_03](https://user-images.githubusercontent.com/122534768/213235825-457766a5-19b2-4481-86bb-c5c4b964f9b2.png)
 
 2.3.	W części centralnej **Strony głównej** wyświetlane są również przyciski:
 * **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów), który powinien dawać możliwość tworzenia raportów oraz administrowanie danych graczy i ich meczów;
