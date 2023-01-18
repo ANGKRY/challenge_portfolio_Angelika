@@ -30,18 +30,25 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 ![2023-01-18_20h08_41](https://user-images.githubusercontent.com/122534768/213273420-eef8aeb0-514f-462a-a63b-eb7e78ec81dd.png)
 
 2.3.2. **Linki pomocnicze** (Dodaj Gracza);
+
 * Przycisk dający możliwość dodawania zawodników, powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
 
 ![2023-01-18_20h20_03](https://user-images.githubusercontent.com/122534768/213274664-373ccb33-4353-4e65-9f9c-0a2f978843ee.png)
 
-* Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu,        tak się dzieje, które dane należy poprawić, żeby tak się stało. 
+* Podczas wpisywania danych nowego zawodnika, aplikacja informuje, że nie może wprowadzić do systemu nowego **Gracza**, natomiast nie informuje z jakiego powodu        tak się dzieje. 
 
 * Podczas wpisywania imienia i nazwiska można używać symboli i cyfr, oraz nie ma ograniczenia co do ich długości.
 
 ![2023-01-18_21h48_20](https://user-images.githubusercontent.com/122534768/213291547-da236eb5-7200-4c36-9062-bace55ecdeef.png)
 
-* Wpisując dane nowego gracza w rubryce telefon można wpisać nie tylko cyfry, a symbole i litery. Dla ułatwienia powinna być możliwość wyboru numeru kierunkowego        danego kraju oraz wprowadzone ograniczenie co do ilości wpisywanych cyfr.
+* Wpisując dane nowego gracza w rubryce telefon można wpisać nie tylko cyfry, a symbole i litery. Proponuje aby dla ułatwienia stworzyć możliwość wyboru numeru kierunkowego danego kraju oraz wprowadzić ograniczenie co do ilości wpisywanych cyfr, w zależności od wybranego kraju.
+
+![image](https://user-images.githubusercontent.com/122534768/213292227-6a523131-7970-4f41-a666-336bae2b6ff4.png)
+
 * W rubryce wzrost i waga można wpisać ujemne wartości.
+
+
+
 * W polskiej wersji językowej, w lewym dolnym roku są przyciski w języku angielskim (submit i clear).
 * Wprowadzając datę urodzenia gracza można wpisać czas przyszły. Zawodnik zapisany w aplikacji może mieć również nieograniczoną ilość lat. Proponuje wykluczyć            możliwość zapisu daty urodzenia przyszłej i wprowadzić maksymalny i minimalny wiek.
  * Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
