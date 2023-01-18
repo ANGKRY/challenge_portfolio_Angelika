@@ -19,7 +19,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 2.1. Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
 
-2.2. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**Ilość graczy, Ilość meczy, Ilość raportów, Ilość akcji**), które nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych.
+2.2. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**Ilość graczy, Ilość meczy, Ilość raportów, Ilość akcji**), które niestety nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych.
 
 ![2023-01-18_17h21_03](https://user-images.githubusercontent.com/122534768/213235825-457766a5-19b2-4481-86bb-c5c4b964f9b2.png)
 
@@ -28,8 +28,9 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 ![2023-01-18_20h08_41](https://user-images.githubusercontent.com/122534768/213273420-eef8aeb0-514f-462a-a63b-eb7e78ec81dd.png)
 
-* **Linki pomocnicze** (dodaj gracza), daje możliwość dodania nowego zawodnika, proponowałabym zmienić nazwę poprostu na: **Dodaj nowego gracza**;
+* **Linki pomocnicze** (Dodaj Gracza), przycisk dający możliwość dodawania zawodników, powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
 
+![2023-01-18_20h20_03](https://user-images.githubusercontent.com/122534768/213274664-373ccb33-4353-4e65-9f9c-0a2f978843ee.png)
 
 * **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
      * ostatnio stworzony gracz;
@@ -37,6 +38,8 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
      * ostatnio stworzony mecz;
      * ostatnio zaktualizowany mecz;
      * ostatnio zaktualizowany raport.
+     
+Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
 
 2.4.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
 *	**Strona główna** 
@@ -94,7 +97,6 @@ Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania 
 
 
 
-Przycisk dający możliwość dodawania zawodników (**Linki pomocnicze**), powinien zostać inaczej zatytułowany, żeby jasno określał swój cel, tj. dodawanie nowych zawodników.
 
 
 
@@ -112,9 +114,9 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 
 4.1.	Na **Stronie głównej**:
 
-* Przyciski na stronie głównej (**ilość graczy, ilość meczy, ilość raportów, ilość akcji**) nie są aktywne, po ich naciśnięciu nie przechodzi się do wyświetlanych wartości i ich szczegółów. Warto dodać taką możliwość.
-* Przycisk **Scouts Panel** opisany został jako Panel zarządzania graczami, meczami i do tworzenia raportów, natomiast ostatecznie pełni on funkcje kontaktu z programistami. Dodatkowo po zmianie na języka polski, nazwa nie zostaje przetłumaczona.
-* Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
+
+
+
 * Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru, a nie niezrozumiałe znaczki.
 
 4.2.	Na stronie z **Graczami**;
