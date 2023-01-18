@@ -132,7 +132,7 @@ W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i fil
      * Dodania meczu.
 Opcja ta jest mało intuicyjna i mało czytelna, brak legendy i informacji w jaki sposób można dodać mecz.
 
-
+![2023-01-18_22h41_10](https://user-images.githubusercontent.com/122534768/213301434-fa4bbde9-851c-44fb-a568-d6a420390eeb.png)
 
 2.5.2. **Raporty** zawierają takie dane jak:
 * Drużyna zawodnika;
