@@ -166,5 +166,5 @@ Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji j�
 * zminimalizuj pracę głównego wątku;
 * skróć czas poświęcany na analizowanie, kompilowanie i wykonywanie Java Script.
 
-
+![image](https://user-images.githubusercontent.com/122534768/213310258-512d270d-1285-4585-afce-0546c74e6bbe.png)
 
