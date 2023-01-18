@@ -57,13 +57,11 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 ![2023-01-18_22h07_12](https://user-images.githubusercontent.com/122534768/213297787-b75279b8-5235-4bc2-8bbe-d98ab93129d7.png)
 
- * Aplikacja nie weryfikuje czy dane gracza nie są zdublowane.
+ * Aplikacja pozwala wprowadzać tego samego gracza kilkarotnie, co mocno zmniejsza jej funkcjonalność.
 
+![2023-01-18_22h25_59](https://user-images.githubusercontent.com/122534768/213298512-d9c651c9-d1c5-440c-8b14-f1b088c5a8f9.png)
 
-
-  
-
-2.3.3. **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
+  2.3.3. **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
      * ostatnio stworzony gracz;
      * ostatnio zaktualizowany gracz;
      * ostatnio stworzony mecz;
