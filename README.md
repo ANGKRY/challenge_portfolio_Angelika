@@ -42,7 +42,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
 
 ![2023-01-18_20h32_01](https://user-images.githubusercontent.com/122534768/213277550-5ecb19c5-5462-4ac9-ac0c-2e4cda0d1790.png)
-
+![2023-01-18_20h33_04](https://user-images.githubusercontent.com/122534768/213277925-187c332e-0412-45c0-a298-ee4c91efcc9e.png)
 
 2.4.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
 *	**Strona główna** 
