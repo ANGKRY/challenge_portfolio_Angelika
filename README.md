@@ -129,10 +129,15 @@ W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i fil
 * Akcje, dają możliwość:
      * Edycji;
      * Dodania raportu;
-     * Dodania meczu.
-Opcja ta jest mało intuicyjna i mało czytelna, brak legendy i informacji w jaki sposób można dodać mecz.
+     * Rozpocznij mecz:
+     
+Opcja rozpoczęcia meczu jest mało intuicyjna i mało czytelna, brak legendy i informacji w jaki sposób można dodać mecz.
 
 ![2023-01-18_22h41_10](https://user-images.githubusercontent.com/122534768/213301434-fa4bbde9-851c-44fb-a568-d6a420390eeb.png)
+
+Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się angielskojęzyczne słowa.
+
+
 
 2.5.2. **Raporty** zawierają takie dane jak:
 * Drużyna zawodnika;
@@ -143,9 +148,7 @@ Opcja ta jest mało intuicyjna i mało czytelna, brak legendy i informacji w jak
 * Ostatnia modyfikacja;
 * Autor;
 * Akcje, dają możliwość:
-     * Edycji.
-
-2.5.3. Po wejściu na ikonę **Mecze** jak i **Raporty** istnieje możliwość dodania nowego dokumentu.
+     * Edycji **Raportu**.
 
 ### 3.	Interfejs (wygląd)
 
@@ -154,8 +157,6 @@ Po zmianie rozdzielczości ekranu na wersje mobilną, interfejs aplikacji zyskuj
 Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkowania. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. Zmiane tłą. Dodanie dźwięku.
 
 Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji językowej nie wszystkie słowa zostały przetłumaczone na język polski.
-
-
 
  4.4.	**Raporty** i **Mecze**:
 
