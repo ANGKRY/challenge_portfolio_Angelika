@@ -137,7 +137,7 @@ Opcja rozpoczęcia meczu jest mało intuicyjna i mało czytelna, brak legendy i 
 
 Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się angielskojęzyczne słowa.
 
-
+![2023-01-18_23h20_52](https://user-images.githubusercontent.com/122534768/213309007-2625b2e3-18ef-4ecd-ae15-224f4cff48b2.png)
 
 2.5.2. **Raporty** zawierają takie dane jak:
 * Drużyna zawodnika;
@@ -152,21 +152,19 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 ### 3.	Interfejs (wygląd)
 
-Po zmianie rozdzielczości ekranu na wersje mobilną, interfejs aplikacji zyskuje na wyglądzie. Wersja na komputer zdecydowanie mi się nie podoba.
+* Po zmianie rozdzielczości ekranu na wersje mobilną, interfejs aplikacji zyskuje na wyglądzie. Wersja na komputer zdecydowanie mi się nie podoba.
+
+
 
 Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkowania. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. Zmiane tłą. Dodanie dźwięku.
 
 Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji językowej nie wszystkie słowa zostały przetłumaczone na język polski.
 
- 4.4.	**Raporty** i **Mecze**:
-
-* Podczas edycji meczu w polskiej wersji językowej wyświetlają się angielskojęzyczne wskaźniki:
-     * Web match
-     * General 
-
-### 5.	Według Raportu Lighthouse wydajność aplikacji wynosi 56 %, w celu jej poprawy należy:
+### 4.	Według Raportu Lighthouse wydajność aplikacji wynosi 56 %, w celu jej poprawy należy:
 
 * wyeliminować zasoby blokujące renderowanie;
 * zminimalizuj pracę głównego wątku;
 * skróć czas poświęcany na analizowanie, kompilowanie i wykonywanie Java Script.
+
+
 
