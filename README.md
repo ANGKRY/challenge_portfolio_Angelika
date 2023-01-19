@@ -45,13 +45,13 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 ![image](https://user-images.githubusercontent.com/122534768/213292227-6a523131-7970-4f41-a666-336bae2b6ff4.png)
 
-* W rubryce wzrost i waga można wybrać ujemne wartości. Powinno się wprowadzić minimalne i maksymalne wartości.
+* W rubryce wzrost i waga można wybrać ujemne wartości. Powinno się wprowadzić minimalne i maksymalne wartości oraz wykluczyć wpisywanie ujemnych wartości.
 
 ![2023-01-18_21h59_49](https://user-images.githubusercontent.com/122534768/213293762-2725a082-4280-4f96-bbf7-309a6209100d.png)
 
 * W polskiej wersji językowej, w lewym dolnym roku są przyciski w języku angielskim (submit i clear).
 
-![2023-01-18_22h04_07](https://user-images.githubusercontent.com/122534768/213294307-6ee08930-287d-4ebc-a92a-0683cfc778c0.png)
+![2023-01-19_18h53_37](https://user-images.githubusercontent.com/122534768/213523369-2df2f5da-26bf-4f1c-9bc3-43ce403b47cc.png)
 
 * Wprowadzając datę urodzenia gracza można wpisać czas przyszły. Zawodnik zapisany w aplikacji może mieć również nieograniczoną liczbę lat. Proponuje wykluczyć            możliwość zapisu daty urodzenia przyszłej i wprowadzić maksymalny i minimalny wiek.
 
@@ -62,13 +62,13 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 ![2023-01-18_22h25_59](https://user-images.githubusercontent.com/122534768/213298512-d9c651c9-d1c5-440c-8b14-f1b088c5a8f9.png)
 
   2.3.3. **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
-     * ostatnio stworzony gracz;
-     * ostatnio zaktualizowany gracz;
-     * ostatnio stworzony mecz;
-     * ostatnio zaktualizowany mecz;
-     * ostatnio zaktualizowany raport.
+  * ostatnio stworzony gracz;
+  * ostatnio zaktualizowany gracz;
+  * ostatnio stworzony mecz;
+  * ostatnio zaktualizowany mecz;
+  * ostatnio zaktualizowany raport.
      
-* Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
+Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
 
 ![2023-01-18_22h31_04](https://user-images.githubusercontent.com/122534768/213299609-8a69b429-ed84-470e-aaf8-3d934cedd801.png)
 
@@ -111,9 +111,9 @@ W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe infor
 ![2023-01-18_21h09_57](https://user-images.githubusercontent.com/122534768/213285261-05d363b4-d156-4dda-9d0c-a26c3b5a3663.png)
 
 * porównać wybierając dowolne wskaźniki;
-* wyszukać dane przy zastosowaniu określonych filtrów.
-
-W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i filtrowanie wyświetlane są w języku angielskim. Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate)
+* wyszukać dane przy zastosowaniu określonych filtrów;
+     * W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i filtrowanie po najechaniu na nie wyświetlane są w języku angielskim. 
+     * Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate)
 
 2.5.	Po wejściu na dowolne założone konto **Gracza** wyświetlają się:
 
