@@ -160,7 +160,9 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 * Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkowania. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. Zmiane tłą. Dodanie dźwięku.
 
-Dodatkowo w aplikacji jest dużo literówek oraz błędów w tłumaczeniu, nie wszystkie słowa zostały przetłumaczone do wybranej wersji językoej.
+* Dodatkowo w aplikacji jest dużo literówek oraz błędów w tłumaczeniu, nie wszystkie słowa zostały przetłumaczone do wybranej wersji językoej.
+
+* Aplikacja jest mało intuicyjna.
 
 ### 4.	Według Raportu Lighthouse wydajność aplikacji wynosi 58 %, w celu jej poprawy należy:
 
