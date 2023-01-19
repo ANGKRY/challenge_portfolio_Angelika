@@ -13,7 +13,7 @@ Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawod
 
 ### 1. Opis aplikacji
 
-Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów i ściągania danych do Excela. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
+Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy, w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
 
 ### 2. Funkcjonalność
 
@@ -25,7 +25,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 2.3.	W części centralnej **Strony głównej** wyświetlane są również przyciski:
 
-2.3.1. **Scouts Panel** (panel zarządzania graczami, meczami i do tworzenia raportów) nie spełnia opisanej funkcji zarządzania graczami, meczami tworzenia raportów. Błędnie kieruje do kontaktu z programistami. Zarządzanie graczami, meczami i tworzenie raportów jest możliwe dopiero po wejściu na konto jednego z **Graczy**.
+2.3.1. **Scouts Panel** (Panel zarządzania graczami, meczami i do tworzenia raportów) nie spełnia opisanej funkcji zarządzania graczami, meczami tworzenia raportów. Błędnie kieruje do kontaktu z programistami. Zarządzanie graczami, meczami i tworzenie raportów jest możliwe dopiero po wejściu na konto dowolnego  **Gracza**.
 
 ![2023-01-18_20h08_41](https://user-images.githubusercontent.com/122534768/213273420-eef8aeb0-514f-462a-a63b-eb7e78ec81dd.png)
 
@@ -45,7 +45,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 ![image](https://user-images.githubusercontent.com/122534768/213292227-6a523131-7970-4f41-a666-336bae2b6ff4.png)
 
-* W rubryce wzrost i waga można wybrać ujemne wartości. Powinno się wprowadzić minimalne i maksymalne wartości oraz wykluczyć wpisywanie ujemnych wartości.
+* W rubryce wzrost i waga można wybrać ujemne wartości. W celu polepszenia funkcjonalności należy wprowadzić minimalne i maksymalne wartości oraz wykluczyć wpisywanie ujemnych wartości.
 
 ![2023-01-18_21h59_49](https://user-images.githubusercontent.com/122534768/213293762-2725a082-4280-4f96-bbf7-309a6209100d.png)
 
@@ -62,11 +62,11 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 ![2023-01-18_22h25_59](https://user-images.githubusercontent.com/122534768/213298512-d9c651c9-d1c5-440c-8b14-f1b088c5a8f9.png)
 
   2.3.3. **Aktywność**, pokazuje aktualną aktywność na stronie, tj.:
-  * ostatnio stworzony gracz;
-  * ostatnio zaktualizowany gracz;
-  * ostatnio stworzony mecz;
-  * ostatnio zaktualizowany mecz;
-  * ostatnio zaktualizowany raport.
+  * Ostatnio stworzony gracz;
+  * Ostatnio zaktualizowany gracz;
+  * Ostatnio stworzony mecz;
+  * Ostatnio zaktualizowany mecz;
+  * Ostatnio zaktualizowany raport.
      
 Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa: "zaktualizowany" również posiada dodatkowe „a”.
 
@@ -98,22 +98,24 @@ Ikona zmiany języka powinna zawierać na przykład flagę z językiem do wyboru
 W wersji mobilnej na telefon, po zmianie rozdzielczości ekranu, powyższe informacje wyświetlają się po kliknięciu w ikonę w lewym górnym rogu. 
 
 2.4.1.	Tabele z danymi **Graczy** można przy użyciu ikon w prawym górnym rogu:
-* pobrać do pliku Excel;
-     * Dane po pobraniu do Excela trafiają do do pierwszej kolumny, co nie jest funkcjonalne i czytelne.
+* Pobrać do pliku Excel;
+     * Wszystkie dane po pobraniu do Excela trafiają do pierwszej kolumny, co nie jest funkcjonalne i czytelne.
 
 ![2023-01-18_20h54_38](https://user-images.githubusercontent.com/122534768/213282540-c4fc4ac0-ea51-4613-948f-2f0bde39b566.png)
 
-* wydrukować;
+* Wydrukować;
      * Podczas próby wydruku tabeli z danymi, na podglądzie do wydruku widoczni są jedynie zawodnicy z pierwszej strony raportu (pierwszych 10).
      * Dane widoczne do druku wyświetlają się w innej formie, niż widoczna na ekranie monitora komputera, mniej czytelnej.
 
 ![2023-01-18_21h08_35](https://user-images.githubusercontent.com/122534768/213285230-a94b3343-23a9-4b6d-9200-316450b57e39.png)
 ![2023-01-18_21h09_57](https://user-images.githubusercontent.com/122534768/213285261-05d363b4-d156-4dda-9d0c-a26c3b5a3663.png)
 
-* porównać wybierając dowolne wskaźniki;
-* wyszukać dane przy zastosowaniu określonych filtrów;
+* Porównać wybierając dowolne wskaźniki;
+* Wyszukać dane przy zastosowaniu określonych filtrów;
      * W polskiej wersji językowej ikony ściągania, drukowania, widoku kolumny i filtrowanie po najechaniu na nie wyświetlane są w języku angielskim. 
-     * Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate)
+     * Dodatkowo po wejściu na opcje filtrowania również w wersji językowej polskie wyświetlają się frazy w języku angielskim (filters, reset, age, rate).
+     
+![2023-01-19_19h11_15](https://user-images.githubusercontent.com/122534768/213527119-67c17629-6870-4b6b-81d8-8f19a95ed1b5.png)
 
 2.5.	Po wejściu na dowolne założone konto **Gracza** wyświetlają się:
 
@@ -158,7 +160,7 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 * Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkowania. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. Zmiane tłą. Dodanie dźwięku.
 
-Dodatkowo w aplikacji jest dużo literówek oraz błędów, w polskiej wersji językowej nie wszystkie słowa zostały przetłumaczone na język polski.
+Dodatkowo w aplikacji jest dużo literówek oraz błędów w tłumaczeniu, nie wszystkie słowa dostały przetłumaczone do wybranej wersji językoej.
 
 ### 4.	Według Raportu Lighthouse wydajność aplikacji wynosi 58 %, w celu jej poprawy należy:
 
