@@ -13,7 +13,7 @@ Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawod
 
 ### 1. Opis aplikacji
 
-Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy, w dwóch wersjach językowych polskim i angielskim. Daje również możliwość porównania wskaźników, dodawania meczów, tworzenia raportów. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
+Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy, w dwóch wersjach językowych polskim i angielskim. Daje również możliwość dodawania zawodników, porównania wskaźników, dodawania meczów, tworzenia raportów. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
 
 ### 2. Funkcjonalność
 
@@ -57,7 +57,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 ![2023-01-18_22h07_12](https://user-images.githubusercontent.com/122534768/213297787-b75279b8-5235-4bc2-8bbe-d98ab93129d7.png)
 
- * Aplikacja pozwala wprowadzać tego samego gracza kilkarotnie, co mocno zmniejsza jej funkcjonalność.
+ * Aplikacja pozwala wprowadzać tego samego gracza kilkarotnie, co mocno zmniejsza jej funkcjonalność. Trzeba wykluczyć możliwość dublowania zawodników.
 
 ![2023-01-18_22h25_59](https://user-images.githubusercontent.com/122534768/213298512-d9c651c9-d1c5-440c-8b14-f1b088c5a8f9.png)
 
@@ -75,14 +75,14 @@ Przycisk **Aktywność** jest błędnie zapisany (Aktywnosć), dodatkowo słowa:
 2.4.	 W wersji pełno ekranowej z lewej strony znajduje się pasek z następującymi przyciskami:
 *	**Strona główna** 
 *	**Gracze**, po kliknięciu pojawia się tabela z następującymi danymi:
-     *	imię;
-     *	nazwisko;
-     *	wiek;
-     *	pozycja rozgrywająca;
-     *	klub;
-     *	recenzja;
-     *	ilość rozegranych meczy;
-     *	raporty.
+     *	Imię;
+     *	Nazwisko;
+     *	Wiek;
+     *	Pozycja rozgrywająca;
+     *	Klub;
+     *	Recenzja;
+     *	Ilość rozegranych meczy;
+     *	Raporty.
      
 Nie ma możliwości segregowania danych alfabetycznie lub od najmniejszego do najwyższego wartości i odwrotnie. Nie można również ustawić ilości wyświetlanych danych na stronie.
           
@@ -160,7 +160,7 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 * Interfejs aplikacji jest bardzo prosty, skromny, mało zachęcający do użytkowania. Proponowałabym inny układ strony. Dodanie na pierwszej stronie rankingu najlepszych 10 graczy. Wyświetlanie krótkich filmów z udziałem graczy z najlepszymi momentami z meczów. Zmiane tłą. Dodanie dźwięku.
 
-Dodatkowo w aplikacji jest dużo literówek oraz błędów w tłumaczeniu, nie wszystkie słowa dostały przetłumaczone do wybranej wersji językoej.
+Dodatkowo w aplikacji jest dużo literówek oraz błędów w tłumaczeniu, nie wszystkie słowa zostały przetłumaczone do wybranej wersji językoej.
 
 ### 4.	Według Raportu Lighthouse wydajność aplikacji wynosi 58 %, w celu jej poprawy należy:
 
