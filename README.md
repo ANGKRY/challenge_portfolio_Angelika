@@ -45,7 +45,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 ![image](https://user-images.githubusercontent.com/122534768/213292227-6a523131-7970-4f41-a666-336bae2b6ff4.png)
 
-* W rubryce wzrost i waga można wpisać ujemne wartości.
+* W rubryce wzrost i waga można wybrać ujemne wartości. Powinno się wprowadzić minimalne i maksymalne wartości.
 
 ![2023-01-18_21h59_49](https://user-images.githubusercontent.com/122534768/213293762-2725a082-4280-4f96-bbf7-309a6209100d.png)
 
