@@ -178,6 +178,8 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 ### 1. Writing test cases based on User Story.
 
+https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit?usp=sharing
+
 1.1. US_01 As a Football Scout, I would like to have a login platform to be able to log into the system.
 
 Users need a login page with a Login field, Password field (Login and password are given by the site administrator to avoid bots). The website should also contain a remind password button, a dropdown with the option of choosing the language - English or Polish, as well as a Sing button.
@@ -195,23 +197,27 @@ Acceptance Criteria:
 After logging in to the system, the user must have easy access to the form for adding a new player. It will be the "Add player" button on the tile named "Shortcuts".
 Design 1:
 
-
+![2023-01-24_11h01_46](https://user-images.githubusercontent.com/122534768/214263688-0cf84829-9018-4235-82cc-0f5372563010.png)
 
 After clicking the add player button, the user is redirected to the player-adding form.
 Design 2:
 
-Acceptance Criteria
-Add player button must redirect to the player-adding form,
-The form should contain fields such as E-mail, name, surname, phone, weight (kg), height (cm), age, leg, club, level, main position, second position, district, achievements, Łączy nas piłka, 90 minutes, Facebook.
-The required fields are Name, Surname, Age, and Main position.
-The form should contain buttons such as Add language, add a link to youtube, submit, and clear.
-After clicking Add language - a field should appear with the option to enter the language used by the player. A trash can icon should appear on the right so you can easily delete the item.
-After clicking Add link to youtube - a field should appear with the option to enter the link to youtube. A trash can icon should appear on the right so you can easily delete the item.
-After clicking the Clear button, the entire form should be cleared immediately.
-After clicking the Submit button, the player should be added to the system * as long as all mandatory fields have been filled in.
-If any of the required fields have not been filled in, a bubble should appear with the words "Fill in this field", and after clicking somewhere next, the field should turn red with the validation "required"
+Acceptance Criteria:
+* Add player button must redirect to the player-adding form,
+* The form should contain fields such as E-mail, name, surname, phone, weight (kg), height (cm), age, leg, club, level, main position, second position, district, achievements, Łączy nas piłka, 90 minutes, Facebook.
+* The required fields are Name, Surname, Age, and Main position.
+* The form should contain buttons such as Add language, add a link to youtube, submit, and clear.
+*After clicking Add language - a field should appear with the option to enter the language used by the player. A trash can icon should appear on the right so you can easily delete the item.
+* After clicking Add link to youtube - a field should appear with the option to enter the link to youtube. A trash can icon should appear on the right so you can easily delete the item.
+* After clicking the Clear button, the entire form should be cleared immediately.
+* After clicking the Submit button, the player should be added to the system * as long as all mandatory fields have been filled in.
+* If any of the required fields have not been filled in, a bubble should appear with the words "Fill in this field", and after clicking somewhere next, the field should turn red with the validation "required"
 
 ## Subtask 2
+
+### Writing test cases based on "own experience".
+
+https://docs.google.com/spreadsheets/d/131yd2nYajoGlCBeDk5eO_olVVewJm-YwyJhoZn56tKs/edit?usp=sharing
 
 ## Subtask 3
 
@@ -219,5 +225,7 @@ Test cases are used to document the functionality of the application in a clear 
 
 ## Subtask 4
 
+### Writing test cases based on "own experience".
 
+https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit?usp=sharing
 
