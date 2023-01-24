@@ -195,12 +195,16 @@ Acceptance Criteria:
 
 1.2. US_02 As a Football Scout, I would like to add a new player to be able to trade it in the future.
 After logging in to the system, the user must have easy access to the form for adding a new player. It will be the "Add player" button on the tile named "Shortcuts".
+
 Design 1:
 
 ![2023-01-24_11h01_46](https://user-images.githubusercontent.com/122534768/214263688-0cf84829-9018-4235-82cc-0f5372563010.png)
 
 After clicking the add player button, the user is redirected to the player-adding form.
+
 Design 2:
+
+![2023-01-24_11h02_45](https://user-images.githubusercontent.com/122534768/214266409-a019e157-d5dd-48b8-9dd1-f37ef023adff.png)
 
 Acceptance Criteria:
 * Add player button must redirect to the player-adding form,
