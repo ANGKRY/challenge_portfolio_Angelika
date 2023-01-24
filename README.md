@@ -172,3 +172,52 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 ![image](https://user-images.githubusercontent.com/122534768/213310258-512d270d-1285-4585-afce-0546c74e6bbe.png)
 
+# Task 2
+
+## Subtask 1
+
+### 1. Writing test cases based on User Story.
+
+1.1. US_01 As a Football Scout, I would like to have a login platform to be able to log into the system.
+
+Users need a login page with a Login field, Password field (Login and password are given by the site administrator to avoid bots). The website should also contain a remind password button, a dropdown with the option of choosing the language - English or Polish, as well as a Sing button.
+
+Acceptance Criteria:
+* Login field,
+* Password field,
+* After entering the correct login and password, the user should be able to log into the system (after clicking sign in button),
+* After entering an Invalid login or password, the validation "Identifier or password invalid" should be displayed,
+* After you try to log into the system without providing your login or password, the validation "Please provide your username or your e-mail." should be displayed,
+* After clicking remind password - the user should be redirected to the remind password page,
+* Choosing one of the language options, the website should be translated into Polish or English. 
+
+1.2. US_02 As a Football Scout, I would like to add a new player to be able to trade it in the future.
+After logging in to the system, the user must have easy access to the form for adding a new player. It will be the "Add player" button on the tile named "Shortcuts".
+Design 1:
+
+
+
+After clicking the add player button, the user is redirected to the player-adding form.
+Design 2:
+
+Acceptance Criteria
+Add player button must redirect to the player-adding form,
+The form should contain fields such as E-mail, name, surname, phone, weight (kg), height (cm), age, leg, club, level, main position, second position, district, achievements, Łączy nas piłka, 90 minutes, Facebook.
+The required fields are Name, Surname, Age, and Main position.
+The form should contain buttons such as Add language, add a link to youtube, submit, and clear.
+After clicking Add language - a field should appear with the option to enter the language used by the player. A trash can icon should appear on the right so you can easily delete the item.
+After clicking Add link to youtube - a field should appear with the option to enter the link to youtube. A trash can icon should appear on the right so you can easily delete the item.
+After clicking the Clear button, the entire form should be cleared immediately.
+After clicking the Submit button, the player should be added to the system * as long as all mandatory fields have been filled in.
+If any of the required fields have not been filled in, a bubble should appear with the words "Fill in this field", and after clicking somewhere next, the field should turn red with the validation "required"
+
+## Subtask 2
+
+## Subtask 3
+
+Test cases are used to document the functionality of the application in a clear way. Tests are performed on their basis. After the tests are completed, test cases are used to create reports on the tests performed. They are also used to create acceptance tests.
+
+## Subtask 4
+
+
+
