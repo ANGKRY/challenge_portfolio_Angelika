@@ -236,14 +236,20 @@ https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT
 
 # Task 3
 
-## Subtask 1
+## Subtask 1 
+
+Formularz do zgłaszania błędów systemu.
 
 https://docs.google.com/spreadsheets/d/1kTWmcChi0hz9Q90Mx5DCk5yTq6h-r8UfxduPLMGh7Do/edit?usp=share_link
 
 ## Subtask 2
 
+Testowanie według planów testów i raportowanie błędów
+
 https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit?usp=share_link
 
 ## Subtask 3
+
+Raport z wykonanych testów.
 
 https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit?usp=share_link
