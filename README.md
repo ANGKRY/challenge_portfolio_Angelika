@@ -233,3 +233,17 @@ Test cases are used to document the functionality of the application in a clear 
 
 https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit?usp=sharing
 
+
+# Task 3
+
+## Subtask 1
+
+https://docs.google.com/spreadsheets/d/1kTWmcChi0hz9Q90Mx5DCk5yTq6h-r8UfxduPLMGh7Do/edit?usp=share_link
+
+## Subtask 2
+
+https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit?usp=share_link
+
+## Subtask 3
+
+https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit?usp=share_link
