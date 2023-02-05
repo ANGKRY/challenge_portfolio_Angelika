@@ -258,6 +258,7 @@ https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/
 
 ## Subtask 2
 
+https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0
 
 ## Subtask 3 
 
