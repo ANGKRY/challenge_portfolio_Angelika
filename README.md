@@ -253,3 +253,35 @@ https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7cz
 Raport z wykonanych testów.
 
 https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit?usp=share_link
+
+# Task 4
+
+## Subtask 2
+
+
+## Subtask 3 
+
+1. Aplikacja OLX służy do zamieszczania ogłoszeń z różnych dziedzin. 
+
+2. Użytkownikiem końcowym może być tak naprawdę każdy, zarówno osoba prywatna jak i firma, poszukująca konkretnej usługi / rzeczy wśród ogłoszeń.
+
+3. Moim zdaniem aplikacja OLX powinna popracować nad tym, aby była w 100% przyjazna dla użytkownika.
+
+5. Co zrobić, aby usprawnić aplikacje:
+
+* Należy popracować nad czasem ładowania aplikacji.
+* Proponuje aby obrazki przedstawiające kategorie ogłoszeń były bardziej dopracowane.
+* Przyciski kategorii ogłoszeń powinny się wyświetlać po cztery w rzędzie na głównej stronie, w celu lepszej wizualizacji i zobaczenie od razu wszystkich kategorii, bez konieczności przewijania w bok.
+* Użytkownik powinien również mieć jasny komunikat co w formularzu dotyczącym nowego ogłoszenia zostało wprowadzone błędnie, które wartości należy poprawić, aktualnie tak się nie dzieje.
+* Trzeba również popracować nad tym, żeby podczas poszukiwania i skrolowania wyświetlały się wszystkie zdjęcia, a nie czarne plamy.
+* Aplikacja nie powinna się również zamykać podczas wprowadzania nowego ogłoszenia oraz kontynuacji wprowadzania ogłoszenia.
+* Wskaźniki wprowadzane do ogłoszenia powinny posiadać ograniczenia co do maksymalnej i minimalnej wartości.
+* Pole do wypełnienia cyframi powinny zostać wypełnione tylko cyframi.
+5.	Różnice pomiędzy testowaniem aplikacji webowych i natywnych:
+* Aplikacje natywne można testować offline, do aplikacji webowych potrzebny jest Internet.
+* Testowanie aplikacji natywnych wiąże się z instalacja aplikacji na urządzeniu mobilnym, natomiast przy aplikacji webowych nie jest to wymagane.
+* Interfejs aplikacji natywnej powinien zostać dostosowany do różnego rodzaju urządzeń mobilnych.
+* W aplikacji natywnej nawigacja powinna być intuicyjna i znajdować  się w okolicy kciuka, w aplikacji webowej nawigacja znajduje się zazwyczaj na górze strony.
+
+
+## Subtask 4
