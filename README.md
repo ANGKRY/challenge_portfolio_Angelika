@@ -412,6 +412,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 Dodatkowo w serwerach bazodanowych występuje znacznik **NULL**, który reprezentuje brakujące dane i jest różny od zera oraz od pustego ciągu znaków. Do znacznika **NULL** można się odnosić jak do braku jakichkolwiek danych w polu. Z powodu występowania znacznika **NULL**, w serwerach bazodanowych obowiązuje logika trójwartościowa a nie dwuwartościowa. Porównanie znacznika **NULL** z dowolną inną wartością daje w wyniku wartość nieznaną, a nie PRAWDĘ lub FAŁSZ.
 
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/122534768/218284039-d9bd9a73-0ec3-4140-a33b-8a072cec117b.png">
 
 
 
