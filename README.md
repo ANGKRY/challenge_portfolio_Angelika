@@ -301,6 +301,18 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 ## Subtask 1
 
+### Zapytania SQL
+
+* **USE**
+* **GO**
+* **SELECT** -  jest podstawową klauzulą SQL- używaną do wyszukiwania danych. 
+* **FROM** - służy do określania tabeli, której dotyczy zapytanie.
+* **WHERE** - formuuje warunek, który określa ograniczenia, jakie mają spełniać rekordy, jeżeli rekord spełnia ograniczenia to zostaje dołączony do tabeli wynikowej.
+
+
+
+
+
 ### Rodzaje operatorów SQL których sią nauczyłam :
 
 #### 1. Operatory porównania
@@ -344,7 +356,54 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 **FROM**  Production.Product
 **WHERE** ListPrice != 0;
 
-* 
+### 2. Operatory SQL w klauzuli WHERE:
+
+* **IN** - wyświetla wynik jeśli argument z lewej strony operatora jest równy jednej z wartości po prawej stronie
+
+**SELECT** *
+**FROM** Person.Person
+**WHERE** LastName  **IN** ( 'Walters', 'Miller')
+
+* **BEETWEN .. AND** – wyświetla wynik, jeżeli argument znajdujący się z lewej strony operatora ma wartość z przedziału podanego po prawej stronie operatora. Końce przedziału są włączone do zakresu.
+
+**SELECT** *
+**FROM** Production.Product
+**WHERE** ListPrice **BETWEEN** 50 **AND** 200
+
+* **LIKE** - umożliwia przeszukiwanie danych tekstowych pod kątem ich zgodności ze wzorcem
+     * symbol procent **(%)** zastępuje dowolny ciąg znaków
+     
+     **SELECT** *
+     **FROM** Person.Person
+     **WHERE** LastName **LIKE 'M%'**
+
+     * symbol dolnego podkreślenia **(_)** zastępuje jeden dowolny znak
+     
+     **SELECT** *
+     **FROM** Person.Person
+     **WHERE** LastName **LIKE 'M_'** 
+     
+### 3. Operatory logiczne, które umożliwiają połączenie kilku warunków w jeden złożony:
+
+* **AND** - (i) wszystkie warunki muszą być prawdziwe, aby całość wyrażenia została wyświetlona
+
+**SELECT** *
+**FROM** Person.Person
+**WHERE** FirstName = 'David' **AND** LastName = 'Bradley';
+
+* **OR** - (lub) tylko jeden z warunków musi być prawdziwy, aby całość została wyświetlona
+
+**SELECT** *
+**FROM** Person.Person
+**WHERE** FirstName = 'David' **OR** LastName = 'Bradley';
+
+
+
+
+
+
+
+
 
 
 
