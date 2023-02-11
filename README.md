@@ -297,3 +297,60 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 ![image](https://user-images.githubusercontent.com/122534768/217266953-4259c4d3-282c-4fd8-b976-41702c6f63dc.png)
 
+# Task 5 
+
+## Subtask 1
+
+Rodzaje operatorów SQL których sią nauczyłam :
+
+1. Operatory porównania
+* równe **(=)** pokazuje wynik , jeżeli porównane wartości są takie same.
+
+**SELECT** LastName
+
+**FROM**  Person.Person
+
+**WHERE** LastName = 'Adams';
+
+* większe niż **(>)** pokazuje wynik, jeżeli pierwsza wartość jest większa od drugiej
+
+**SELECT** *
+
+**FROM**  Production.Product
+
+**WHERE** ListPrice > 0;
+
+* mniejsze niż **(<)** pokazuje wynik, jeżeli pierwsza wartość jest mniejsza od drugiej
+
+**SELECT** *
+
+**FROM**  Production.Product
+
+**WHERE** ListPrice < 100;
+
+* większy lub równy **(>=)** - wynik wyświetla się jeśli pierwsza wartość jest większa lub równa drugiej
+
+**SELECT** *
+
+**FROM**  Production.Product
+
+**WHERE** ListPrice >= 100
+
+* mniejszy lub równy **(<=)** - wynik wyświetla się jeśli pierwsza wartość jest mniejsza lub równa drugiej
+
+**SELECT** *
+
+**FROM**  Production.Product
+
+**WHERE** ListPrice <= 100
+
+
+
+
+
+
+
+
+
+
+
