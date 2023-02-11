@@ -301,16 +301,19 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 ## Subtask 1
 
-### Zapytania SQL
+### Zapytania i Funkcję  SQL
 
+* **SELECT** - jest podstawową klauzulą SQL- używaną do wyszukiwania danych. 
+* **FROM** - służy do określania tabeli, której dotyczy zapytanie.
+* **WHERE** - formułuje warunek, który określa ograniczenia, jakie mają spełniać rekordy, jeżeli rekord spełnia ograniczenia to zostaje dołączony do tabeli wynikowej.
+
+<img width="339" alt="image" src="https://user-images.githubusercontent.com/122534768/218282340-7a323980-14a2-400f-ac80-4b0e25e6e57c.png">
+
+* **CREATE TABLE**
+
+* **AS** - (alias) używany w celu zmiany nazwy według własnej potrzeby.
 * **USE**
 * **GO**
-* **SELECT** -  jest podstawową klauzulą SQL- używaną do wyszukiwania danych. 
-* **FROM** - służy do określania tabeli, której dotyczy zapytanie.
-* **WHERE** - formuuje warunek, który określa ograniczenia, jakie mają spełniać rekordy, jeżeli rekord spełnia ograniczenia to zostaje dołączony do tabeli wynikowej.
-
-
-
 
 
 ### Rodzaje operatorów SQL których sią nauczyłam :
@@ -397,6 +400,9 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 **FROM** Person.Person
 **WHERE** FirstName = 'David' **OR** LastName = 'Bradley';
 
+* **NOT** używany do zaprzeczenia
+
+Dodatkowo w serwerach bazodanowych występuje znacznik **NULL**, który reprezentuje brakujące dane i jest różny od zera oraz od pustego ciągu znaków. Do znacznika **NULL** można się odnosić jak do braku jakichkolwiek danych w polu. Z powodu występowania znacznika **NULL**, w serwerach bazodanowych obowiązuje logika trójwartościowa a nie dwuwartościowa. Porównanie znacznika **NULL** z dowolną inną wartością daje w wyniku wartość nieznaną, a nie PRAWDĘ lub FAŁSZ.
 
 
 
