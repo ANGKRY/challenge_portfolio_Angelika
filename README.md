@@ -311,6 +311,8 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 * **CREATE TABLE**
 
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/122534768/218283524-19959438-16fb-487a-b699-01db2f4b35b0.png">
+
 * **AS** - (alias) używany w celu zmiany nazwy według własnej potrzeby.
 * **USE**
 * **GO**
