@@ -414,7 +414,7 @@ Dodatkowo w serwerach bazodanowych występuje znacznik **NULL**, który reprezen
 
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/122534768/218284039-d9bd9a73-0ec3-4140-a33b-8a072cec117b.png">
 
-
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/122534768/218284145-749d48c3-ca46-4a91-8cb7-f2d3548005a5.png">
 
 
 
