@@ -309,11 +309,17 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/122534768/218282340-7a323980-14a2-400f-ac80-4b0e25e6e57c.png">
 
-* **CREATE TABLE**
+* **CREATE TABLE** - służy do sortowania wyników.
 
-<img width="215" alt="image" src="https://user-images.githubusercontent.com/122534768/218283524-19959438-16fb-487a-b699-01db2f4b35b0.png">
+     * do sortowania malejącegi używamy **DESC**;
+     * do rosnącego sortowania ASC - normalnie jest pomijane.
+
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/122534768/218283580-8f2c0bfa-122a-4a2b-ba1f-d1bef31a8112.png">
 
 * **AS** - (alias) używany w celu zmiany nazwy według własnej potrzeby.
+
+* **ORDER BY** - 
+
 * **USE**
 * **GO**
 
