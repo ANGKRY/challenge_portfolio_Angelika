@@ -485,8 +485,11 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/122534768/218326664-ae9181ff-5759-41bf-9a63-671175ad1946.png">
+<img width="373" alt="image" src="https://user-images.githubusercontent.com/122534768/218326685-9e728f63-885a-42e4-a3a9-4d949ddb744c.png">
 
-6. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 7.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 8. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 9. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
