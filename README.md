@@ -490,12 +490,18 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-7.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-8. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-9. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-10. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
-11. Wyświetl dane klienta, który nie ma podanego adresu email.
-12. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+ 
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 
 
