@@ -501,6 +501,9 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/122534768/218332491-e22d3ef6-ec13-46fd-b128-9d6b21ae081c.png">
+<img width="259" alt="image" src="https://user-images.githubusercontent.com/122534768/218332513-1a6dab69-0655-4f17-b33b-84cc79f11e3d.png">
+
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
  
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
