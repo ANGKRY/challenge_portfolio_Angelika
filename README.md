@@ -489,7 +489,10 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="373" alt="image" src="https://user-images.githubusercontent.com/122534768/218326685-9e728f63-885a-42e4-a3a9-4d949ddb744c.png">
 
 
-4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.
+
+<img width="275" alt="image" src="https://user-images.githubusercontent.com/122534768/218328891-e40cd0a5-ade1-48cc-81c2-1569247c9a9b.png">
+<img width="225" alt="image" src="https://user-images.githubusercontent.com/122534768/218328913-0b4987b0-4594-4e13-9522-726ff7d36e26.png">
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
