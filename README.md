@@ -334,6 +334,10 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/122534768/218321130-422590b4-e47f-46f8-aa35-eeeb43d2ad95.png">
 
+* **JOIN** - klauzula pozwala na łączenie ze sobą danych znajdujących się w różnych tabelach.
+
+<img width="789" alt="image" src="https://user-images.githubusercontent.com/122534768/218321787-a062cfc0-5326-4503-b018-3565da189fe7.png">
+
 ### Funkcje w SQL
 
 #### 1. Funkcja skalarna to funkcja, która dla każdego zestawu jednego lub większej liczby parametrów skalarnych zwraca pojedynczą wartość skalarną.
@@ -371,6 +375,8 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="445" alt="image" src="https://user-images.githubusercontent.com/122534768/218320391-91e88b62-feaf-4401-b18d-0a8f33506f4b.png">
 
 * **MAX** - funkcja służy do znajdowania wartości największej w zbiorze wartości,  obie funkcje, podobnie jak funkcja COUNT(), mogą być użyte dla różnych typów danych.
+
+* **AVG** - zwraca średnią wartość.
 
 ### Rodzaje operatorów SQL których sią nauczyłam :
 
@@ -465,7 +471,18 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 * **NOT** używany do zaprzeczenia
 
+## SUBTASK 3
 
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+2. Wyświetl film, który powstał w 2019 roku.
+4. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+5. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+6.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+7. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+8. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+9. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+10. Wyświetl dane klienta, który nie ma podanego adresu email.
+11. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 
 
