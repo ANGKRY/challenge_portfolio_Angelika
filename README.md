@@ -473,20 +473,26 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 ## SUBTASK 3
 
-#### 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
 <img width="213" alt="image" src="https://user-images.githubusercontent.com/122534768/218324798-b39f5776-6c78-402b-8534-8794c8b9e6b3.png">
 <img width="190" alt="image" src="https://user-images.githubusercontent.com/122534768/218324895-5ef985e1-f383-418c-a114-725ada73704b.png">
 
-3. Wyświetl film, który powstał w 2019 roku.
-4. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
-5. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-6.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-7. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-8. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-9. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
-10. Wyświetl dane klienta, który nie ma podanego adresu email.
-11. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+2. Wyświetl film, który powstał w 2019 roku.
+
+<img width="303" alt="image" src="https://user-images.githubusercontent.com/122534768/218326024-5b20d6b4-dfe3-42ba-bbb7-27b26aab50e8.png">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/122534768/218326071-63ce6ce1-964b-4e82-8288-99686144f8d4.png">
+
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+
+6. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+7.Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+8. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+9. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+10. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+11. Wyświetl dane klienta, który nie ma podanego adresu email.
+12. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 
 
