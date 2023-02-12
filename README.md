@@ -309,24 +309,31 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/122534768/218282340-7a323980-14a2-400f-ac80-4b0e25e6e57c.png">
 
-* **CREATE TABLE** - służy do sortowania wyników.
-
-     * do sortowania malejącegi używamy **DESC**;
-     * do rosnącego sortowania ASC - normalnie jest pomijane.
+* **CREATE TABLE** - służy do tworzenia tabeli.
 
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/122534768/218283580-8f2c0bfa-122a-4a2b-ba1f-d1bef31a8112.png">
 
 * **AS** - (alias) używany w celu zmiany nazwy według własnej potrzeby.
 
-* **ORDER BY** - 
+<img width="239" alt="image" src="https://user-images.githubusercontent.com/122534768/218313553-ec9e05d0-6d2c-4a89-be65-3da6c08ebd76.png">
 
-* **USE**
-* **GO**
+* **ORDER BY** - służy do sortowania wyników.
 
+     * do sortowania malejącegi używamy **DESC**;
+     * do rosnącego sortowania ASC - normalnie jest pomijane, ponieważ z założenia sortowane są rosnąco.
+
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/122534768/218313930-4d8b1f09-167f-4270-a0c0-022f4cc8bd90.png">
+
+* **USE** - polecenie jest używane, gdy w SQL istnieje wiele baz danych, a użytkownik lub programista chce konkretnie użyć określonej bazy danych.
+
+* **GO** - pisząc program, umieszczamy kolejne linie kodu jedna po drugiej. Tak utworzony program jest uruchamiany, gdy napotkana zostanie komenda GO.
+
+<img width="105" alt="image" src="https://user-images.githubusercontent.com/122534768/218315347-7b722474-902d-4a3c-af42-b8c8afd34517.png">
 
 ### Rodzaje operatorów SQL których sią nauczyłam :
 
 #### 1. Operatory porównania
+
 * równe **(=)** pokazuje wynik , jeżeli porównane wartości są takie same.
 
 **SELECT** LastName
@@ -367,7 +374,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 **FROM**  Production.Product
 **WHERE** ListPrice != 0;
 
-### 2. Operatory SQL w klauzuli WHERE:
+#### 2. Operatory SQL w klauzuli WHERE:
 
 * **IN** - wyświetla wynik jeśli argument z lewej strony operatora jest równy jednej z wartości po prawej stronie
 
@@ -394,7 +401,13 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
      **FROM** Person.Person
      **WHERE** LastName **LIKE 'M_'** 
      
-### 3. Operatory logiczne, które umożliwiają połączenie kilku warunków w jeden złożony:
+* **NUL** znacznik, który reprezentuje brakujące dane i jest różny od zera oraz od pustego ciągu znaków. Do znacznika **NULL** można się odnosić jak do braku jakichkolwiek danych w polu. Z powodu występowania znacznika **NULL**, w serwerach bazodanowych obowiązuje logika trójwartościowa a nie dwuwartościowa. Porównanie znacznika **NULL** z dowolną inną wartością daje w wyniku wartość nieznaną, a nie PRAWDĘ lub FAŁSZ.
+ 
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/122534768/218284039-d9bd9a73-0ec3-4140-a33b-8a072cec117b.png">
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/122534768/218284145-749d48c3-ca46-4a91-8cb7-f2d3548005a5.png">
+    
+#### 3. Operatory logiczne, które umożliwiają połączenie kilku warunków w jeden złożony:
 
 * **AND** - (i) wszystkie warunki muszą być prawdziwe, aby całość wyrażenia została wyświetlona
 
@@ -410,11 +423,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 * **NOT** używany do zaprzeczenia
 
-Dodatkowo w serwerach bazodanowych występuje znacznik **NULL**, który reprezentuje brakujące dane i jest różny od zera oraz od pustego ciągu znaków. Do znacznika **NULL** można się odnosić jak do braku jakichkolwiek danych w polu. Z powodu występowania znacznika **NULL**, w serwerach bazodanowych obowiązuje logika trójwartościowa a nie dwuwartościowa. Porównanie znacznika **NULL** z dowolną inną wartością daje w wyniku wartość nieznaną, a nie PRAWDĘ lub FAŁSZ.
 
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/122534768/218284039-d9bd9a73-0ec3-4140-a33b-8a072cec117b.png">
-
-<img width="424" alt="image" src="https://user-images.githubusercontent.com/122534768/218284145-749d48c3-ca46-4a91-8cb7-f2d3548005a5.png">
 
 
 
