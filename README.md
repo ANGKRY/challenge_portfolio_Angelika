@@ -301,7 +301,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 ## Subtask 1
 
-### Zapytania i Funkcję  SQL
+### Zapytania i komendy w SQL
 
 * **SELECT** - jest podstawową klauzulą SQL- używaną do wyszukiwania danych. 
 * **FROM** - służy do określania tabeli, której dotyczy zapytanie.
@@ -320,7 +320,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 * **ORDER BY** - służy do sortowania wyników.
 
      * do sortowania malejącegi używamy **DESC**;
-     * do rosnącego sortowania ASC - normalnie jest pomijane, ponieważ z założenia sortowane są rosnąco.
+     * do rosnącego sortowania **ASC** - normalnie jest pomijane, ponieważ z założenia sortowane są rosnąco.
 
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/122534768/218313930-4d8b1f09-167f-4270-a0c0-022f4cc8bd90.png">
 
@@ -328,7 +328,49 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 * **GO** - pisząc program, umieszczamy kolejne linie kodu jedna po drugiej. Tak utworzony program jest uruchamiany, gdy napotkana zostanie komenda GO.
 
-<img width="105" alt="image" src="https://user-images.githubusercontent.com/122534768/218315347-7b722474-902d-4a3c-af42-b8c8afd34517.png">
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/122534768/218315753-648c9164-9405-48a8-92e9-09415e356c44.png">
+
+* **GROUP BY** - polega na grupowaniu danych, krok ten, wykonywany jest jako kolejny po filtrowaniu rekordów, zgodnie z warunkami określonymi w **WHERE** (o ile w ogóle cokolwiek filtrujemy), lub bezpośrednio po **FROM** jeśli nie korzystamy z selekcji wierszy.
+
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/122534768/218321130-422590b4-e47f-46f8-aa35-eeeb43d2ad95.png">
+
+### Funkcje w SQL
+
+#### 1. Funkcja skalarna to funkcja, która dla każdego zestawu jednego lub większej liczby parametrów skalarnych zwraca pojedynczą wartość skalarną.
+
+* **GETDATE** - zwraca bieżącą datę i czas
+
+<img width="139" alt="image" src="https://user-images.githubusercontent.com/122534768/218317501-7b0e33e5-850a-44ee-8253-7d7182807e84.png">
+
+* **UPPER** - zamienia małe na duże litery.
+
+<img width="284" alt="image" src="https://user-images.githubusercontent.com/122534768/218317685-793ec887-704e-47d6-938c-610d3faae3d9.png">
+
+* **LOWER** - zamienia duże lietry na małe.
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/122534768/218317813-bea7406b-64de-465d-be8e-4d1275a4cdfc.png">
+
+* **DATEDIFF** potrafi wyliczać różnice pomiędzy dwoma wartościami takimi jak lata, miesiące, godziny itp.
+
+<img width="471" alt="image" src="https://user-images.githubusercontent.com/122534768/218317264-99d44ca1-9ab2-48e0-ac75-f34f0a88eeea.png">
+
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/122534768/218318028-241a188b-0827-4499-929f-e5ba86f7f80d.png">
+
+#### 2. Funkcje agregujące - funkcje wbudowane w serwer bazodanowy, które są stosowane w odniesieniu do grup danych i bazując na nich zwracają jedną wartość.
+
+* **COUNT** - zwraca liczbę wierszy w określonej tabeli i zachowuje zduplikowane wiersze. Liczy każdy wiersz osobno. Obejmuje to wiersze zawierające wartości null.
+
+<img width="412" alt="image" src="https://user-images.githubusercontent.com/122534768/218318276-4d838a07-1148-47db-b5d2-e5cc7ea218fb.png">
+
+* **SUM** - za pomocą funkcji dodawane są wszystkie wartości rekordów wybranych w zapytaniu i zwracany jest pojedynczy wynik. Obejmuje wyłącznie liczby.
+
+<img width="121" alt="image" src="https://user-images.githubusercontent.com/122534768/218320162-b8e6549c-e6c7-4a3c-9178-d8e11784f0dc.png">
+
+* **MIN** - funkcja służy do znajdowania wartości najmniejszej w zbiorze wartości,  obie funkcje, podobnie jak funkcja COUNT(), mogą być użyte dla różnych typów danych.
+
+<img width="445" alt="image" src="https://user-images.githubusercontent.com/122534768/218320391-91e88b62-feaf-4401-b18d-0a8f33506f4b.png">
+
+* **MAX** - funkcja służy do znajdowania wartości największej w zbiorze wartości,  obie funkcje, podobnie jak funkcja COUNT(), mogą być użyte dla różnych typów danych.
 
 ### Rodzaje operatorów SQL których sią nauczyłam :
 
