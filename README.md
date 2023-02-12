@@ -496,6 +496,9 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/122534768/218329250-0567be1e-b511-4c44-83d4-1a7d3a92cf14.png">
+<img width="178" alt="image" src="https://user-images.githubusercontent.com/122534768/218329266-2f16831b-648c-41a5-ab07-87b30ef12084.png">
+
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
