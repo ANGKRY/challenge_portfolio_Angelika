@@ -511,6 +511,9 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
  
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
+<img width="238" alt="image" src="https://user-images.githubusercontent.com/122534768/218584455-82ead9a9-5a05-401b-ad33-fb6d22485574.png">
+<img width="160" alt="image" src="https://user-images.githubusercontent.com/122534768/218584509-7cd5f8c9-8441-4f37-ba4d-c56a3dd50506.png">
+
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
