@@ -326,7 +326,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 * **USE** - polecenie jest używane, gdy w SQL istnieje wiele baz danych, a użytkownik lub programista chce konkretnie użyć określonej bazy danych.
 
-* **GO** - pisząc program, umieszczamy kolejne linie kodu jedna po drugiej. Tak utworzony program jest uruchamiany, gdy napotkana zostanie komenda GO.
+* **GO** -  podczas wpisywania komend gdy napotkana zostanie fraza GO, zostania ona uruchomiona.
 
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/122534768/218315753-648c9164-9405-48a8-92e9-09415e356c44.png">
 
