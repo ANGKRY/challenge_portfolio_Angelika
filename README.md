@@ -516,6 +516,9 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
+<img width="248" alt="image" src="https://user-images.githubusercontent.com/122534768/218585040-d8321254-cbed-4812-adde-655679f2ca07.png">
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/122534768/218585099-8dd3b679-c359-4965-8194-370f1184afb4.png">
+
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 
