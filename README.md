@@ -505,6 +505,9 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="259" alt="image" src="https://user-images.githubusercontent.com/122534768/218332513-1a6dab69-0655-4f17-b33b-84cc79f11e3d.png">
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/122534768/218583651-2ecacbe8-8c71-43a1-a5df-93af80e875df.png">
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/122534768/218583709-0f362c36-7615-43fc-92cd-1165af0f7097.png">
  
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
