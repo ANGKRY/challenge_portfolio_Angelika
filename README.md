@@ -521,25 +521,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="387" alt="image" src="https://user-images.githubusercontent.com/122534768/218586550-826bbf1e-1439-4e6c-8070-0a03f6b5f6c0.png">
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/122534768/218586634-301972e6-0d7a-4781-8e02-bfa974811557.png">
 
 
