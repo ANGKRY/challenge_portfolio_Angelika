@@ -299,7 +299,9 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 # Task 5 
 
-## Subtask 1
+## Subtask 1  
+
+## Operatory / zapytania  ? polecenia w SQL których sią nauczyłam :
 
 ### Zapytania i komendy w SQL
 
@@ -377,8 +379,6 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 * **MAX** - funkcja służy do znajdowania wartości największej w zbiorze wartości,  obie funkcje, podobnie jak funkcja COUNT(), mogą być użyte dla różnych typów danych.
 
 * **AVG** - zwraca średnią wartość.
-
-### Rodzaje operatorów SQL których sią nauczyłam :
 
 #### 1. Operatory porównania
 
