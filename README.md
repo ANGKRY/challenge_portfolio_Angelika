@@ -543,7 +543,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/122534768/219467580-23b28e91-adf4-4739-8dba-c744407437fb.png">
 <img width="266" alt="image" src="https://user-images.githubusercontent.com/122534768/219467809-d46e0546-21fc-43a8-ba38-10594261849e.png">
 
-
+14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
 
 
