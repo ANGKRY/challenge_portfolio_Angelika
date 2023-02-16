@@ -524,4 +524,13 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="387" alt="image" src="https://user-images.githubusercontent.com/122534768/218586550-826bbf1e-1439-4e6c-8070-0a03f6b5f6c0.png">
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/122534768/218586634-301972e6-0d7a-4781-8e02-bfa974811557.png">
 
+# Task 5
+
+## Subtask 1
+
+11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd.
+
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/122534768/219371798-a570fa2b-b0b8-4729-b6fd-3b6da279a537.png">
+<img width="265" alt="image" src="https://user-images.githubusercontent.com/122534768/219372212-2d975b73-1336-45a1-af6b-811f1470ebfc.png">
+
 
