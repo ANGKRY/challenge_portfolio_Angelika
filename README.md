@@ -533,4 +533,11 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/122534768/219371798-a570fa2b-b0b8-4729-b6fd-3b6da279a537.png">
 <img width="265" alt="image" src="https://user-images.githubusercontent.com/122534768/219372212-2d975b73-1336-45a1-af6b-811f1470ebfc.png">
 
+12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
+
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/122534768/219452701-52b9ff46-1c24-4d6f-bb5c-cd4d4fbba22e.png">
+<img width="92" alt="image" src="https://user-images.githubusercontent.com/122534768/219452869-69ad6f59-17d1-468e-a632-79836c34a8d9.png">
+
+
+
 
