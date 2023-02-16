@@ -538,6 +538,12 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="653" alt="image" src="https://user-images.githubusercontent.com/122534768/219452701-52b9ff46-1c24-4d6f-bb5c-cd4d4fbba22e.png">
 <img width="92" alt="image" src="https://user-images.githubusercontent.com/122534768/219452869-69ad6f59-17d1-468e-a632-79836c34a8d9.png">
 
+13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com
+
+<img width="363" alt="image" src="https://user-images.githubusercontent.com/122534768/219467580-23b28e91-adf4-4739-8dba-c744407437fb.png">
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/122534768/219467809-d46e0546-21fc-43a8-ba38-10594261849e.png">
+
+
 
 
 
