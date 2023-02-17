@@ -564,4 +564,6 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/122534768/219687576-57f4ca43-4f6a-47d7-889c-0799fd792dd6.png">
 <img width="73" alt="image" src="https://user-images.githubusercontent.com/122534768/219687508-f2326a35-1e87-4d7b-a89c-82491bde7822.png">
 
+18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
+
 
