@@ -554,4 +554,8 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="499" alt="image" src="https://user-images.githubusercontent.com/122534768/219662614-d0bbf7d5-19e7-439e-98e4-03e969d5bc10.png">
 <img width="73" alt="image" src="https://user-images.githubusercontent.com/122534768/219662686-c873128e-cc14-4f90-bfa9-6ae7bb818b62.png">
 
+16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
+
+
+
 
