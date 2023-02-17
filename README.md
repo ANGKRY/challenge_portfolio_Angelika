@@ -577,3 +577,7 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
+<img width="640" alt="image" src="https://user-images.githubusercontent.com/122534768/219794650-bd9735e5-4222-4c1b-9190-6d425e18f28f.png">
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/122534768/219794706-f9216074-c887-4c48-abef-47769cf4fd91.png">
+
+
