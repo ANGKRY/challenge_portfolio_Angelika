@@ -572,4 +572,8 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.
 
+<img width="613" alt="image" src="https://user-images.githubusercontent.com/122534768/219780539-fb88cb3a-c0a8-41e3-99e0-1bbe86d189ca.png">
+<img width="157" alt="image" src="https://user-images.githubusercontent.com/122534768/219780779-c24b5ab8-f8ac-4a46-b915-1efede30ba4f.png">
+
+20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
