@@ -556,6 +556,10 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.
 
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/122534768/219677225-ff26a73f-b45f-4524-bc79-a29d35624723.png">
+<img width="178" alt="image" src="https://user-images.githubusercontent.com/122534768/219677298-265a78b0-1f65-48c3-b564-a363fe21d789.png">
+
+17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
 
 
