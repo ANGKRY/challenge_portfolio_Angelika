@@ -548,4 +548,6 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="680" alt="image" src="https://user-images.githubusercontent.com/122534768/219486836-dd9296ff-a2e0-4693-a1be-afd9ed543c19.png">
 <img width="279" alt="image" src="https://user-images.githubusercontent.com/122534768/219486991-b504ec77-894f-4a5c-ba12-eab00308c140.png">
 
+15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
 
