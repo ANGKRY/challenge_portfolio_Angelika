@@ -545,9 +545,10 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).
 
-<img width="680" alt="image" src="https://user-images.githubusercontent.com/122534768/219486836-dd9296ff-a2e0-4693-a1be-afd9ed543c19.png">
-<img width="279" alt="image" src="https://user-images.githubusercontent.com/122534768/219486991-b504ec77-894f-4a5c-ba12-eab00308c140.png">
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/122534768/219642591-d5b821f3-e4ea-4ee9-9339-8aef76223200.png">
+<img width="333" alt="image" src="https://user-images.githubusercontent.com/122534768/219642716-d51f40e4-4f03-4d1c-8143-f660f01e04d4.png">
 
 15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag
+
 
 
