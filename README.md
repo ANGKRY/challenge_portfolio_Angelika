@@ -3,7 +3,7 @@
 
 ## *Subtask 1*
 
-8 pkt
+8/10 pkt
 
 ## *Subtask 3*
 
@@ -580,4 +580,8 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/122534768/219794650-bd9735e5-4222-4c1b-9190-6d425e18f28f.png">
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/122534768/219794706-f9216074-c887-4c48-abef-47769cf4fd91.png">
 
+## Subtasck 2
 
+## Subtasck 3
+
+Test 15/15 pkt
