@@ -582,6 +582,8 @@ https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1
 
 ## Subtasck 2
 
+![Moje Portfolio](https://github.com/ANGKRY/AngelikaKryska-Portfolio)
+
 ## Subtasck 3
 
 Test 15/15 pkt
