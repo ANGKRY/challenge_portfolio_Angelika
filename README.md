@@ -259,7 +259,7 @@ Testowanie eksloracyjne i raportowanie błędów. [Link to bugs in OLX app](http
 
 ## Subtask 4
 
-Grupowe zadanie, test aplikacji mobilnej i webowej [SwipeTo](https://swipeto.pl/) [Link to Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
+Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1), test aplikacji mobilnej i webowej [SwipeTo](https://swipeto.pl/) 
 
 ![image](https://user-images.githubusercontent.com/122534768/217265739-5db25c66-24ad-4e02-b72a-0908611b2edf.png)
 
