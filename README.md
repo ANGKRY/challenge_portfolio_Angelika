@@ -222,13 +222,13 @@ Testowanie eksloracyjne i raportowanie błędów. [Link to bugs in OLX app](http
 
 ## Subtask 3 
 
-*1. Aplikacja OLX służy do zamieszczania ogłoszeń z różnych dziedzin.* 
+**1. Aplikacja OLX służy do zamieszczania ogłoszeń z różnych dziedzin.** 
 
-2. Użytkownikiem końcowym może być tak naprawdę każdy, zarówno osoba prywatna jak i firma, poszukująca konkretnej usługi / rzeczy wśród ogłoszeń. 
+**2. Użytkownikiem końcowym może być tak naprawdę każdy, zarówno osoba prywatna jak i firma, poszukująca konkretnej usługi / rzeczy wśród ogłoszeń.** 
  
-3. Moim zdaniem aplikacja OLX powinna popracować nad tym, aby była w 100% przyjazna dla użytkownika.
+**3. Moim zdaniem aplikacja OLX powinna popracować nad tym, aby była w 100% przyjazna dla użytkownika.**
 
-4. Co zrobić, aby usprawnić aplikacje:
+**4. Co zrobić, aby usprawnić aplikacje:**
 
 ⏲️ Należy popracować nad czasem ładowania aplikacji.
 
@@ -246,7 +246,7 @@ Testowanie eksloracyjne i raportowanie błędów. [Link to bugs in OLX app](http
 
 📖 Pole do wypełnienia cyframi powinny zostać wypełnione tylko cyframi.
 
-5.	Różnice pomiędzy testowaniem aplikacji webowych i natywnych:
+**5.	Różnice pomiędzy testowaniem aplikacji webowych i natywnych:**
 
 📴 Aplikacje natywne można testować offline, do aplikacji webowych potrzebny jest Internet.
 
