@@ -205,7 +205,7 @@ Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób funkcjonalno
 
 Formularz do zgłaszania błędów systemu.
 
-https://docs.google.com/spreadsheets/d/1kTWmcChi0hz9Q90Mx5DCk5yTq6h-r8UfxduPLMGh7Do/edit?usp=share_link
+[Link to Bug form](https://docs.google.com/spreadsheets/d/1kTWmcChi0hz9Q90Mx5DCk5yTq6h-r8UfxduPLMGh7Do/edit?usp=share_link)
 
 ## Subtask 2
 
