@@ -11,9 +11,11 @@ Biorę udział w projekcie, ponieważ szukam zmian i wyzwań w moim życiu zawod
 
 ## *Subtask 4*
 
+### Testy eksploracyjne: 
+
 ### 1. Opis aplikacji
 
-Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osiągnieć graczy, w dwóch wersjach językowych polskim i angielskim. Daje również możliwość dodawania zawodników, porównania wskaźników, dodawania meczów, tworzenia raportów. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
+Aplikacja: [Link to app Scouts Futbolkolektyw](https://scouts-test.futbolkolektyw.pl/pl) służy do weryfikacji osiągnieć graczy, w dwóch wersjach językowych polskim i angielskim. Daje również możliwość dodawania zawodników, porównania wskaźników, dodawania meczów, tworzenia raportów. Przeznaczona jest dla osób/firmy poszukujących utalentowanych zawodników.
 
 ### 2. Funkcjonalność
 
