@@ -176,11 +176,11 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 ## Subtask 1
 
-### 1. Przypadki testowe oparte na historii użytkownika [Link to test cases](https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit?usp=sharing)
+Przypadki testowe oparte na historii użytkownika [Link to test cases](https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit?usp=sharing)
 
 ## Subtask 2
 
-### Przypadki testowe oparte na własnym doświadczeniu [Link to test cases](https://docs.google.com/spreadsheets/d/131yd2nYajoGlCBeDk5eO_olVVewJm-YwyJhoZn56tKs/edit?usp=sharing)
+Przypadki testowe oparte na własnym doświadczeniu [Link to test cases](https://docs.google.com/spreadsheets/d/131yd2nYajoGlCBeDk5eO_olVVewJm-YwyJhoZn56tKs/edit?usp=sharing)
 
 ## Subtask 3
 
@@ -190,7 +190,7 @@ Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób funkcjonalno
 
 ## Subtask 4
 
-### Przypadki testowe oparte na własnym doświadczeniu [Link to tets cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit?usp=sharing)
+Przypadki testowe oparte na własnym doświadczeniu [Link to tets cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit?usp=sharing)
 
 # Task 3
 
