@@ -176,15 +176,11 @@ Dodatkowo podczas edycji meczu, w polskiej wersji językowej, wkradają się ang
 
 ## Subtask 1
 
-### 1. Przypadki testowe oparte na historii użytkownika:
-
-[Link to test cases](https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit?usp=sharing)
+### 1. Przypadki testowe oparte na historii użytkownika [Link to test cases](https://docs.google.com/spreadsheets/d/1nj29FupjcOu1rnDOw2KjLS-ICXrpnYi3P9NKVSt8oFw/edit?usp=sharing)
 
 ## Subtask 2
 
-### Przypadki testowe oparte na własnym doświadczeniu:
-
-[Link to test cases](https://docs.google.com/spreadsheets/d/131yd2nYajoGlCBeDk5eO_olVVewJm-YwyJhoZn56tKs/edit?usp=sharing)
+### Przypadki testowe oparte na własnym doświadczeniu [Link to test cases](https://docs.google.com/spreadsheets/d/131yd2nYajoGlCBeDk5eO_olVVewJm-YwyJhoZn56tKs/edit?usp=sharing)
 
 ## Subtask 3
 
@@ -194,30 +190,21 @@ Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób funkcjonalno
 
 ## Subtask 4
 
-### Przypadki testowe oparte na własnym doświadczeniu:
-
-[Link to tets cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit?usp=sharing)
-
+### Przypadki testowe oparte na własnym doświadczeniu [Link to tets cases](https://docs.google.com/spreadsheets/d/1syBFhG4C7qPP1Y_xCBwWt0g7E3WA1kY2ih22RPAT3Wo/edit?usp=sharing)
 
 # Task 3
 
 ## Subtask 1 
 
-Formularz do zgłaszania błędów systemu.
-
-[Link to Bug form](https://docs.google.com/spreadsheets/d/1kTWmcChi0hz9Q90Mx5DCk5yTq6h-r8UfxduPLMGh7Do/edit?usp=share_link)
+Formularz do zgłaszania błędów systemu [Link to Bug form](https://docs.google.com/spreadsheets/d/1kTWmcChi0hz9Q90Mx5DCk5yTq6h-r8UfxduPLMGh7Do/edit?usp=share_link)
 
 ## Subtask 2
 
-Testowanie według planów testów i raportowanie błędów
-
-https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit?usp=share_link
+Testowanie według planów testów i raportowanie błędów [Link to Test cases](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit?usp=share_link)
 
 ## Subtask 3
 
-Raport z wykonanych testów.
-
-https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit?usp=share_link
+Raport z wykonanych testów [Link to raport](https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit?usp=share_link)
 
 # Task 4
 
