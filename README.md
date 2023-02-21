@@ -3,7 +3,7 @@
 
 ## *Subtask 1*
 
-8/10 pkt 🦸‍♀️:
+8/10 pkt 🦸‍♀️
 
 ## *Subtask 3*
 
@@ -19,7 +19,7 @@ Aplikacja:  https://scouts-test.futbolkolektyw.pl/pl służy do weryfikacji osi�
 
 2.1. Funkcjonalność aplikacji w ramach logowania i wylogowania jest prawidłowa, zmiana języka przy logowaniu działa poprawnie. Istnieje możliwość przesłania maila przypominającego z hasłem w przypadku nie zapamiętania hasła.
 
-2.2. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**Ilość graczy, Ilość meczy, Ilość raportów, Ilość akcji**), które niestety nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych. 😶:
+2.2. Po zalogowaniu wyświetla się **Strona główna**, na samej górze w rzędzie widoczne są przyciski z aktualizowanymi na bieżąco wartościami (**Ilość graczy, Ilość meczy, Ilość raportów, Ilość akcji**), które niestety nie są aktywne, po ich naciśnięciu nie można wejść w szczegóły wyświetlanych danych. 😶
 
 ![2023-01-18_17h21_03](https://user-images.githubusercontent.com/122534768/213235825-457766a5-19b2-4481-86bb-c5c4b964f9b2.png)
 
@@ -184,7 +184,7 @@ Przypadki testowe oparte na własnym doświadczeniu [Link to test cases](https:/
 
 ## Subtask 3
 
-❓:Dlaczego piszemy przypadki testowe ?
+❓ Dlaczego piszemy przypadki testowe ?
 
 ![](https://media.tenor.com/Hj1-v7JTO1gAAAAC/nacho-why.gif)
 
@@ -210,9 +210,13 @@ Raport z wykonanych testów [Link to raport](https://docs.google.com/document/d/
 
 # Task 4
 
+## Subtask 1
+
+☑️ Stworzyłam formatkę do zgłaszania błędów systemu.
+
 ## Subtask 2
 
-https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0
+Testowanie eksloracyjne i raportowanie błędów. [Link to bugs in OLX app](https://docs.google.com/spreadsheets/d/1bAqjko-hBOIW7fudtsWaxG0IGbjl9IARJmoZzjYMw_U/edit#gid=0)
 
 ## Subtask 3 
 
