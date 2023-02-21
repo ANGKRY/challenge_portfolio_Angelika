@@ -184,9 +184,11 @@ Przypadki testowe oparte na własnym doświadczeniu [Link to test cases](https:/
 
 ## Subtask 3
 
-Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób funkcjonalność danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej z nich. Po zakończeniu testów, na podstawie przypadków testowych możemy budować nasze raporty z wykonanych testów. Przypadki testowe można również wykorzystać się w kontekście testów akceptacyjnyc,h w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami. 
+❓:Dlaczego piszemy przypadki testowe ?
 
 ![](https://media.tenor.com/Hj1-v7JTO1gAAAAC/nacho-why.gif)
+
+Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób funkcjonalność danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej z nich. Po zakończeniu testów, na podstawie przypadków testowych możemy budować nasze raporty z wykonanych testów. Przypadki testowe można również wykorzystać się w kontekście testów akceptacyjnyc,h w celu potwierdzenia działania aplikacji zgodnie z oczekiwaniami. 
 
 ## Subtask 4
 
@@ -200,7 +202,7 @@ Formularz do zgłaszania błędów systemu [Link to Bug form](https://docs.googl
 
 ## Subtask 2
 
-Testowanie według planów testów i raportowanie błędów [Link to Test cases](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit?usp=share_link)
+Testowanie według planów testów i raportowanie błędów [Link to test cases](https://docs.google.com/spreadsheets/d/1yk2sd5-TrRxMyD8aUxhAUdKQwpo0XNFtybqBk7czpQc/edit?usp=share_link)
 
 ## Subtask 3
 
