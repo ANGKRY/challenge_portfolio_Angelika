@@ -265,6 +265,8 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 ![image](https://user-images.githubusercontent.com/122534768/217266239-f8b06f96-7605-467b-a07f-097b892c17d0.png)
 
+![](![IMG-6123](https://user-images.githubusercontent.com/122534768/220407136-895045aa-dc15-4a94-ab66-30210570f9c3.png)
+
 ![image](https://user-images.githubusercontent.com/122534768/217266700-964af885-44ba-4623-bd58-370cebb11bcf.png)
 
 ![image](https://user-images.githubusercontent.com/122534768/217266953-4259c4d3-282c-4fd8-b976-41702c6f63dc.png)
