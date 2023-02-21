@@ -3,7 +3,7 @@
 
 ## *Subtask 1*
 
-8/10 pkt
+8/10 pkt 🦸‍♀️:
 
 ## *Subtask 3*
 
