@@ -295,8 +295,6 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/122534768/218321130-422590b4-e47f-46f8-aa35-eeeb43d2ad95.png">
 
-
-
 ### Funkcje w SQL
 
 #### 1. Funkcja skalarna to funkcja, która dla każdego zestawu jednego lub większej liczby parametrów skalarnych zwraca pojedynczą wartość skalarną.
@@ -337,7 +335,7 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 * **AVG** - zwraca średnią wartość.
 
-#### 1. Operatory porównania
+### Operatory porównania
 
 * równe **(=)** pokazuje wynik , jeżeli porównane wartości są takie same.
 
@@ -379,7 +377,7 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 **FROM**  Production.Product
 **WHERE** ListPrice != 0;
 
-#### 2. Operatory SQL w klauzuli WHERE:
+### Operatory SQL w klauzuli WHERE:
 
 * **IN** - wyświetla wynik jeśli argument z lewej strony operatora jest równy jednej z wartości po prawej stronie
 
@@ -412,7 +410,7 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 <img width="424" alt="image" src="https://user-images.githubusercontent.com/122534768/218284145-749d48c3-ca46-4a91-8cb7-f2d3548005a5.png">
     
-#### 3. Operatory logiczne, które umożliwiają połączenie kilku warunków w jeden złożony:
+### Operatory logiczne, które umożliwiają połączenie kilku warunków w jeden złożony:
 
 * **AND** - (i) wszystkie warunki muszą być prawdziwe, aby całość wyrażenia została wyświetlona
 
@@ -430,7 +428,7 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 * **LIKE** w celu porównania wartości pola z wyrażeniem ciągu
 
-### 4. Dodatkowe możliwości, które daje nam SQL
+### Dodatkowe możliwości, które daje nam SQL
 
 * **AS** - (alias) używany w celu zmiany nazwy według własnej potrzeby.
 
