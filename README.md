@@ -273,9 +273,7 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 ## Subtask 1  
 
-## Operatory / zapytania  ? polecenia w SQL których sią nauczyłam :
-
-### Zapytania i komendy w SQL
+### Instrukcje, kótrych nauczyłam sie w SQL: 
 
 * **SELECT** - jest podstawową klauzulą SQL- używaną do wyszukiwania danych. 
 * **FROM** - służy do określania tabeli, której dotyczy zapytanie.
@@ -283,34 +281,21 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 <img width="339" alt="image" src="https://user-images.githubusercontent.com/122534768/218282340-7a323980-14a2-400f-ac80-4b0e25e6e57c.png">
 
+* **"*"** gdy wpiszemy gwiazdkę wyświetlają się wszystkie kolumny z tabeli.
+
 * **CREATE TABLE** - służy do tworzenia tabeli.
 
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/122534768/218283580-8f2c0bfa-122a-4a2b-ba1f-d1bef31a8112.png">
 
-* **AS** - (alias) używany w celu zmiany nazwy według własnej potrzeby.
+* **INSERT INTO** -
 
-<img width="239" alt="image" src="https://user-images.githubusercontent.com/122534768/218313553-ec9e05d0-6d2c-4a89-be65-3da6c08ebd76.png">
-
-* **ORDER BY** - służy do sortowania wyników.
-
-     * do sortowania malejącegi używamy **DESC**;
-     * do rosnącego sortowania **ASC** - normalnie jest pomijane, ponieważ z założenia sortowane są rosnąco.
-
-<img width="355" alt="image" src="https://user-images.githubusercontent.com/122534768/218313930-4d8b1f09-167f-4270-a0c0-022f4cc8bd90.png">
-
-* **USE** - polecenie jest używane, gdy w SQL istnieje wiele baz danych, a użytkownik lub programista chce konkretnie użyć określonej bazy danych.
-
-* **GO** -  podczas wpisywania komend gdy napotkana zostanie fraza GO, zostania ona uruchomiona.
-
-<img width="391" alt="image" src="https://user-images.githubusercontent.com/122534768/218315753-648c9164-9405-48a8-92e9-09415e356c44.png">
+* **UPDATE** - 
 
 * **GROUP BY** - polega na grupowaniu danych, krok ten, wykonywany jest jako kolejny po filtrowaniu rekordów, zgodnie z warunkami określonymi w **WHERE** (o ile w ogóle cokolwiek filtrujemy), lub bezpośrednio po **FROM** jeśli nie korzystamy z selekcji wierszy.
 
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/122534768/218321130-422590b4-e47f-46f8-aa35-eeeb43d2ad95.png">
 
-* **JOIN** - klauzula pozwala na łączenie ze sobą danych znajdujących się w różnych tabelach.
 
-<img width="789" alt="image" src="https://user-images.githubusercontent.com/122534768/218321787-a062cfc0-5326-4503-b018-3565da189fe7.png">
 
 ### Funkcje w SQL
 
@@ -442,6 +427,27 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 **WHERE** FirstName = 'David' **OR** LastName = 'Bradley';
 
 * **NOT** używany do zaprzeczenia
+
+* **LIKE** w celu porównania wartości pola z wyrażeniem ciągu
+
+### 4. Dodatkowe możliwości, które daje nam SQL
+
+* **AS** - (alias) używany w celu zmiany nazwy według własnej potrzeby.
+
+<img width="239" alt="image" src="https://user-images.githubusercontent.com/122534768/218313553-ec9e05d0-6d2c-4a89-be65-3da6c08ebd76.png">
+
+* **ORDER BY** - służy do sortowania wyników.
+
+     * do sortowania malejącegi używamy **DESC**;
+     * do rosnącego sortowania **ASC** - normalnie jest pomijane, ponieważ z założenia sortowane są rosnąco.
+
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/122534768/218313930-4d8b1f09-167f-4270-a0c0-022f4cc8bd90.png">
+
+* **USE** - polecenie jest używane, gdy w SQL istnieje wiele baz danych, a użytkownik lub programista chce konkretnie użyć określonej bazy danych.
+
+* **GO** -  podczas wpisywania komend gdy napotkana zostanie fraza GO, zostania ona uruchomiona.
+
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/122534768/218315753-648c9164-9405-48a8-92e9-09415e356c44.png">
 
 ## SUBTASK 3
 
