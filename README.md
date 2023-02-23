@@ -290,7 +290,9 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 **INSERT INTO** nazwa_tabeli(nazwa_kolumny1, nazwa_kolumny2 itd) **VALUES** (wartości1, wartości2, itd)
 
-* **UPDATE** - 
+* **UPDATE** - służy do modyfikacji danych
+
+**UPDATE** nazwa_tabeli **SET** nazwa_kolumny = nowa wartość **WHERE** id = 1
 
 * **GROUP BY** - polega na grupowaniu danych, krok ten, wykonywany jest jako kolejny po filtrowaniu rekordów, zgodnie z warunkami określonymi w **WHERE** (o ile w ogóle cokolwiek filtrujemy), lub bezpośrednio po **FROM** jeśli nie korzystamy z selekcji wierszy.
 
