@@ -286,7 +286,9 @@ Grupowe zadanie [Link to Jira](https://challangedareit.atlassian.net/jira/softwa
 
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/122534768/218283580-8f2c0bfa-122a-4a2b-ba1f-d1bef31a8112.png">
 
-* **INSERT INTO** -
+* **INSERT INTO** - służy do wstawiania danych do tabeli.
+
+**INSERT INTO** nazwa_tabeli(nazwa_kolumny1, nazwa_kolumny2 itd) **VALUES** (wartości1, wartości2, itd)
 
 * **UPDATE** - 
 
