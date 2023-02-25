@@ -208,7 +208,7 @@ Testowanie według planów testów i raportowanie błędów [Link to test cases]
 
 ## Subtask 3
 
-Raport z wykonanych testów [Link to raport](https://docs.google.com/document/d/1rf8GIMs0iJKXkLUXEJRQD32iCCK16sKatQEg4F6_hLk/edit?usp=share_link)
+Raport z wykonanych testów [Link to raport](https://docs.google.com/presentation/d/1YkQ3vwqDQJXcEG9K5xzUtg-iYolldZOJ/edit?usp=share_link&ouid=116269363705844167593&rtpof=true&sd=true)
 
 # Task 4
 
